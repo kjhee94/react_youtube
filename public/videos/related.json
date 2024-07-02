@@ -1,0 +1,862 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "9SKwwOmrTzr0ibmllNJ7X5luviM",
+    "nextPageToken": "CBkQAA",
+    "regionCode": "KR",
+    "pageInfo": {
+        "totalResults": 1000000,
+        "resultsPerPage": 25
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "y2V7ZaxrOdDNY7LMQ1faLqXwcAA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_TEUl01vMxA"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-03T11:00:34Z",
+                "channelId": "UCtctOXlHYeQyuXSgW861nMA",
+                "title": "세계최초‼️ 훌라후프안에 13명😱 Hula-hoop Challenge",
+                "description": "온라인으로 텀블링 배우기 https://101.gg/team1llusion-class HDEX 10% 할인쿠폰: 1llusion 처음부터 잘 하는 사람은 없습니다.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_TEUl01vMxA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_TEUl01vMxA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_TEUl01vMxA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "팀일루션 노성율 - TEAM1LLUSION",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-03T11:00:34Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Ee2PqkqHJHoZC2OSQXhkmsOJHy8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "iBFpng43Jyk"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-02T18:23:02Z",
+                "channelId": "UCVVMMNVUwHbxljqi-xZ-jig",
+                "title": "She’s FLYING! 😱😂 (Fireboy DML Peru - Scan filter challenge) | Triple Charm #shorts",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iBFpng43Jyk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iBFpng43Jyk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iBFpng43Jyk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Triple Charm",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-02T18:23:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "UHqn9e4gZ9VJYV2T4t5RoUmyzMU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lMFNlWZlFz8"
+            },
+            "snippet": {
+                "publishedAt": "2022-12-06T13:30:10Z",
+                "channelId": "UCiVs2pnGW5mLIc1jS2nxhjg",
+                "title": "Wednesday Slide Tutorial",
+                "description": "김프로 #유백합 #KIMPRO 김프로 KIMPRO SNS   틱톡 : https://www.tiktok.com/@kimpro828 인스타그램 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lMFNlWZlFz8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lMFNlWZlFz8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lMFNlWZlFz8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "김프로KIMPRO",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-12-06T13:30:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "jkLy3g-19cdqCz4UKMVTavZ86mo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Y7WZTEz3UAs"
+            },
+            "snippet": {
+                "publishedAt": "2015-05-06T15:01:37Z",
+                "channelId": "UCTxBdQ7W4OmNLJCJd-gh8-Q",
+                "title": "제임스 브라운",
+                "description": "아카데미 시상식에서 네 개 부문 후보에 오른 '헬프'의 후속작. 테이트 타일러 감독, 42의 채드윅 보스만 주연. 소울의 아버지 제임스 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Y7WZTEz3UAs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Y7WZTEz3UAs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Y7WZTEz3UAs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "YouTube Movies",
+                "liveBroadcastContent": "none",
+                "publishTime": "2015-05-06T15:01:37Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "jjXzF1Jg2WemyYzkGofUvFWFc-k",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Coi7rtSuO90"
+            },
+            "snippet": {
+                "publishedAt": "2012-08-29T11:49:16Z",
+                "channelId": "UCfqq0msXoC78evtF6X0AT4w",
+                "title": "투어리스트",
+                "description": "프랭크(조니 뎁)는 휴가 차 이태리, 베니스를 여행하는 평범한 미국인이다. 프랭크는 우연히 숨막히도록 아름답지만 비밀을 감추고 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Coi7rtSuO90/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Coi7rtSuO90/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Coi7rtSuO90/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "YouTube Movies",
+                "liveBroadcastContent": "none",
+                "publishTime": "2012-08-29T11:49:16Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "dQs9UN891zt3s7G8VhbzJxAj-ik",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "FvyB-jKPsgE"
+            },
+            "snippet": {
+                "publishedAt": "2024-07-01T03:01:13Z",
+                "channelId": "UCWwgaK7x0_FR1goeSRazfsQ",
+                "title": "Semi-Century | Samsung",
+                "description": "Through relentless challenges and numerous innovations, Samsung Semiconductor has finally reached 50 years. Over the next ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FvyB-jKPsgE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FvyB-jKPsgE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FvyB-jKPsgE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Samsung",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-07-01T03:01:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "1dREQMTidDNg7P6vY33RFYTdBAI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "WhnDDkvS0sc"
+            },
+            "snippet": {
+                "publishedAt": "2024-07-01T17:11:02Z",
+                "channelId": "UC8shfFhkDOoIBq1i6l0nQcA",
+                "title": "A new summer tradition 😋😍 #breakfast #summeractivities #summertime #family #dayinmylife",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WhnDDkvS0sc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WhnDDkvS0sc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WhnDDkvS0sc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Fluellen Fam",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-07-01T17:11:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "H70VV44zepHGmACkUuOkaBy8JSk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "jCSADOjvgz8"
+            },
+            "snippet": {
+                "publishedAt": "2014-07-19T08:01:26Z",
+                "channelId": "UC2lm36exeRNco0HcguJvGVQ",
+                "title": "레볼루셔너리 로드",
+                "description": "아카데미상®에 노미네이트된 레오나르도 디카프리오와 아카데미상® 수상자 케이트 윈슬렛, 두 강력한 스타가 리처드 예이츠의 동명 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jCSADOjvgz8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jCSADOjvgz8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jCSADOjvgz8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "YouTube Movies",
+                "liveBroadcastContent": "none",
+                "publishTime": "2014-07-19T08:01:26Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "GqgS4Bh9SLJQzKwXNIXfJo2M-Yk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "U0uOzFMJ1TY"
+            },
+            "snippet": {
+                "publishedAt": "2016-02-29T08:25:02Z",
+                "channelId": "UCcBst-Jf59hUKH_SOCqC2iA",
+                "title": "브루클린의 멋진 주말",
+                "description": "40년 묵은 이스트 빌리지 아파트가 팔리기를 기대하는 뉴욕 노부부의 평소와 다른 주말 이야기. '루스'는 은퇴한 교사이고, '알렉스'는 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/U0uOzFMJ1TY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/U0uOzFMJ1TY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/U0uOzFMJ1TY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "YouTube Movies",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-02-29T08:25:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "V3bsx0jdWeeepLPevppAbtM5puo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Q1giqvTwZqs"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-01T13:00:19Z",
+                "channelId": "UC4rlAVgAK0SGk-yTfe48Qpw",
+                "title": "+50 Riddles With Twists For Natural Born Investigators 🔍",
+                "description": "Easy or hard: each riddle captures our attention and makes us restless until we find the answer. But no worries: here each of the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Q1giqvTwZqs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Q1giqvTwZqs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Q1giqvTwZqs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "BRIGHT SIDE",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-01T13:00:19Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "sZhNiGq4FL5JvSCTauC8PDr4TDk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "odHc-pEdKvA"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-27T08:18:50Z",
+                "channelId": "UCttFk8-Nysnyw59aNlWOWzw",
+                "title": "Rich or Broke? Let’s Test Your Logical Skills",
+                "description": "Are you attentive and can spot the tiniest detail that might be the clue to answer? These riddles and puzzles with answers will ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/odHc-pEdKvA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/odHc-pEdKvA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/odHc-pEdKvA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "7-Second Riddles",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-27T08:18:50Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "dHP22rObW4_Ey_4LNxaZeTks8rU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "yZ5BS6qiiaQ"
+            },
+            "snippet": {
+                "publishedAt": "2022-01-25T08:56:28Z",
+                "channelId": "UCttFk8-Nysnyw59aNlWOWzw",
+                "title": "I Bet You Won&#39;t Solve These 13 Riddles  Prove Me Wrong",
+                "description": "You're all smart and bright, but let's find out who's the smartest of you all. Solving riddles helps you boost your brain power and ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yZ5BS6qiiaQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yZ5BS6qiiaQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yZ5BS6qiiaQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "7-Second Riddles",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-01-25T08:56:28Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "hryJfXHftpflnDKztYN7hYqZw9E",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ajcxSWpKwvE"
+            },
+            "snippet": {
+                "publishedAt": "2024-07-01T13:30:01Z",
+                "channelId": "UCuFPaemAaMR8R5cHzjy23dQ",
+                "title": "🌺「君は僕のもの」MV現場 ラスサビ風景 🌺#SnowMan#君は僕のもの #スノは君のもの#熱い想い夏い想い",
+                "description": "STARTO ENTERTAINMENT Official Site https://starto.jp/s/p/artist/43?ima=3650 ◇Snow Man HP ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ajcxSWpKwvE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ajcxSWpKwvE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ajcxSWpKwvE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Snow Man",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-07-01T13:30:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "RyKN5kxFtrtY4ngbrFRk7Ps0HcU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "JUgPCZNquDM"
+            },
+            "snippet": {
+                "publishedAt": "2016-01-06T15:00:15Z",
+                "channelId": "UC8L__RuNawnnO4ynFBg5nBA",
+                "title": "팬 (자막판)",
+                "description": "조 라이트가 연출한 영화 \"팬\"은 소설가 J.M. 배리 의 원작을 기반으로 하며, 영원하 사랑받는 캐릭터의 신나는 모험의 세계를 화려한 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JUgPCZNquDM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JUgPCZNquDM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JUgPCZNquDM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "YouTube Movies",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-01-06T15:00:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "PQwYQFjkYfF7_ftcr8jPyn7QtEk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ZoNKFC8P9hI"
+            },
+            "snippet": {
+                "publishedAt": "2024-07-01T20:38:58Z",
+                "channelId": "UCQANb2YPwAtK-IQJrLaaUFw",
+                "title": "🚨 Supreme Court ruling suddenly endangers EVERY Trump prosecution",
+                "description": "The Legal Breakdown episode 328: @GlennKirschner2 discusses the bombshell Supreme Court ruling on presidential immunity.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZoNKFC8P9hI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZoNKFC8P9hI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZoNKFC8P9hI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Brian Tyler Cohen",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-07-01T20:38:58Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "NtsZTlpjKd-STcXcZAxXZsUx4dM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Wdk0Qhlz450"
+            },
+            "snippet": {
+                "publishedAt": "2024-06-30T11:00:33Z",
+                "channelId": "UCychocGDj9_U2SydLizlfug",
+                "title": "치토스로 체감되는 요즘 물가",
+                "description": "shorts #과자 #치토스 #먹방 #물가 #snacks #cheetos #past #future #funny #comedy #memes instagram: yeongmin0917 business ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Wdk0Qhlz450/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Wdk0Qhlz450/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Wdk0Qhlz450/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "진영민yeongmin",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-06-30T11:00:33Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "BEQfygOnHe80PtI3_oL2MxntGZw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "BfKnVYvs5ro"
+            },
+            "snippet": {
+                "publishedAt": "2024-07-01T06:29:56Z",
+                "channelId": "UCdrBnBNLsN4_cH32HWbr9qg",
+                "title": "LOVE LETTER - POPPY PLAYTIME CHAPTER 3 | GH&#39;S ANIMATION",
+                "description": "GH.S Twitter : https://twitter.com/GHSTUDI0 Voice Actor :@NDH_Blueclub   GH'STUDIO : GH'S, PP, ANIMATORNAM, JOO, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BfKnVYvs5ro/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BfKnVYvs5ro/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BfKnVYvs5ro/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "GH'S",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-07-01T06:29:56Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "OlmZSbwY_aXZ8ZDkw2Cpqe13h8s",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "LTmYMLg5l8I"
+            },
+            "snippet": {
+                "publishedAt": "2024-01-08T00:58:07Z",
+                "channelId": "UChXo1crWdlv2I1ZnkWo3UwQ",
+                "title": "행복을 바라보는 7월의 꽃 🌻 l GRASS COTTON+",
+                "description": "Artist Lori Lively, Noir Bell, Inner Ocean +GℝASS ℂOTTOℕ + +이 채널에 사용된 모든 음악은 론뮤직에서 제공됩니다. +영상에 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LTmYMLg5l8I/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LTmYMLg5l8I/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LTmYMLg5l8I/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "GRASS COTTON 그래스코튼",
+                "liveBroadcastContent": "live",
+                "publishTime": "2024-01-08T00:58:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "K_J_s8IFGa2_I2If_hf4sQQttd8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "buDtqGhTBXg"
+            },
+            "snippet": {
+                "publishedAt": "2024-07-01T19:00:29Z",
+                "channelId": "UC7bYyWCCCLHDU0ZuNzGNTtg",
+                "title": "That&#39;s one brave man",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/buDtqGhTBXg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/buDtqGhTBXg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/buDtqGhTBXg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Comments Section with Brett Cooper",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-07-01T19:00:29Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "BU3AzZ8ZrFKNURCIfxU5LMv98l4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "cbczoGB7pcI"
+            },
+            "snippet": {
+                "publishedAt": "2016-03-30T10:49:18Z",
+                "channelId": "UCYXEb5vAFCq68F3qdKJAUXQ",
+                "title": "이터널 선샤인",
+                "description": "사랑은 그렇게 다시 기억된다.. 조엘은 아픈 기억만을 지워준다는 라쿠나사를 찾아가 헤어진 연인 클레멘타인의 기억을 지우기로 결심 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cbczoGB7pcI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cbczoGB7pcI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cbczoGB7pcI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "YouTube Movies",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-03-30T10:49:18Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "KS7IKkhJY3HCinHlmP83h2cJrFo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ML8KMooKliA"
+            },
+            "snippet": {
+                "publishedAt": "2024-07-01T02:09:44Z",
+                "channelId": "UCHr5gYvzISpll23Je0urUeQ",
+                "title": "Oyakata-sama😧💔 #fyp #kny #demonslayer #foryou",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ML8KMooKliA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ML8KMooKliA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ML8KMooKliA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "imthesan",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-07-01T02:09:44Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "sdJWU89OZnJK4k-dKRzpjOt_4yw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ZnFE2Gc6QXk"
+            },
+            "snippet": {
+                "publishedAt": "2012-08-26T10:29:24Z",
+                "channelId": "UChW1Hj1crNHHdroAyMypdqA",
+                "title": "프리스트",
+                "description": "대재앙 이후의 세계, 인간과 흡혈귀 간의 전쟁이 몇 세기나 이어졌다. 전사가 된 사제(폴 베타니)의 조카가 무자비한 뱀파이어들의 소굴 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZnFE2Gc6QXk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZnFE2Gc6QXk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZnFE2Gc6QXk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "YouTube Movies",
+                "liveBroadcastContent": "none",
+                "publishTime": "2012-08-26T10:29:24Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "kU6Yifhh8XhnUF9BBinhGggy27s",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "dAQcaRVSBPM"
+            },
+            "snippet": {
+                "publishedAt": "2024-06-30T17:42:40Z",
+                "channelId": "UCXzs4ZknZKageuV7uLUleVQ",
+                "title": "My boyfriend’s mom pushed me😳 #africa #family #dance #comedy @jaymondy.",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dAQcaRVSBPM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dAQcaRVSBPM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dAQcaRVSBPM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Isabell afro",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-06-30T17:42:40Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "8Hg6a3G4U16uSLXhXmkkQGao-g4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "01nbv02ZbBc"
+            },
+            "snippet": {
+                "publishedAt": "2024-07-01T08:00:00Z",
+                "channelId": "UCvEEeBssb4XxIfWWIB8IjMw",
+                "title": "#쥴리#나띠 와 마주친 순간 I fly high#KISSOFLIFE #키스오브라이프 #KIOF #JULIE #NATTY #Sticky #Sticky_Challenge #Shorts",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/01nbv02ZbBc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/01nbv02ZbBc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/01nbv02ZbBc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KISS OF LIFE",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-07-01T08:00:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "zH2HZZ8CZpVDYhxNYX37hnU9OBs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "nFfuL7PuAUk"
+            },
+            "snippet": {
+                "publishedAt": "2024-07-01T09:04:05Z",
+                "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
+                "title": "&#39;4년 만의 새 모델&#39; 공개 날 수많은 &#39;집게 손&#39; 포착…&#39;르노 직원&#39; 당사자 직접 나섰지만 &#39;비난 폭주&#39; 이유 (현장영상) / SBS",
+                "description": "르노코리아의 신차 홍보 영상에 출연한 직원이 '집게 손' 동작을 한 것을 두고 온라인에서 논란이 커지고 있습니다. 르노코리아는 조사 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nFfuL7PuAUk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nFfuL7PuAUk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nFfuL7PuAUk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SBS 뉴스",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-07-01T09:04:05Z"
+            }
+        }
+    ]
+}

@@ -1,0 +1,856 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "fW2Qt0-cVdJ-o5bqFwNrJFqL6Co",
+    "nextPageToken": "CBkQAA",
+    "regionCode": "KR",
+    "pageInfo": {
+        "totalResults": 470894,
+        "resultsPerPage": 25
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "XCwSmTSQlf1Fc_gO4wa-UO5UBU0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "GPBe-oYlG1A"
+            },
+            "snippet": {
+                "publishedAt": "2023-03-02T03:03:00Z",
+                "channelId": "UCI78AdiI6f7VKhqW1i4B3Rw",
+                "title": "ASMR MUKBANG | Fast Food, Big Mac, Chicken Nuggets, Onion Rings, Chicken Sandwich, Wings, Fries",
+                "description": "ASMR MUKBANG | Fast Food, Big Mac, Chicken Nuggets, Onion Rings, Chicken Sandwich, Wings, Fries Check out my ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GPBe-oYlG1A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GPBe-oYlG1A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GPBe-oYlG1A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Zach Choi ASMR",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-03-02T03:03:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "BLnr7K3miaz8yvcNRcr4vULR2nc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "EuySE6259wQ"
+            },
+            "snippet": {
+                "publishedAt": "2020-02-29T13:45:01Z",
+                "channelId": "UCIafb9ExBkh4WsCOagZssZA",
+                "title": "ASMR MUKBANG| 직접 만든 떡볶이 양념치킨 김밥 먹방 &amp; 레시피 FRIED CHICKEN AND Tteokbokki EATING",
+                "description": "먹방 #ASMR #MUKBANG #떡볶이 #양념치킨 #김밥 #튀김 문의메일 sulgi506@gmail.com 인스타 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EuySE6259wQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EuySE6259wQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EuySE6259wQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "설기양SULGI",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-02-29T13:45:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "WkAtcyW5-5VsVMleuMXbAlpRykk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-Z_OE-TjXIY"
+            },
+            "snippet": {
+                "publishedAt": "2024-03-16T17:22:06Z",
+                "channelId": "UCtM58H2QaTXTi7OIRAVgAGg",
+                "title": "Pick a Flag!? 🥵 (Spicy ASMR) ft. @sushi.monsters",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-Z_OE-TjXIY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-Z_OE-TjXIY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-Z_OE-TjXIY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Spizee",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-03-16T17:22:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "K1C7XLmcE2vf_vXIfaaXZK-kyqs",
+            "id": {
+                "kind": "youtube#playlist",
+                "playlistId": "PL-xb2stbjYhOAvLgqMEdsyZ6sEyF9ZnZr"
+            },
+            "snippet": {
+                "publishedAt": "2019-08-21T05:16:45Z",
+                "channelId": "UC6MjPpbfU_lfyYp2qAv5Osw",
+                "title": "Smosh makbang",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JuAcecYNPQA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JuAcecYNPQA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JuAcecYNPQA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "6545l",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-08-21T05:16:45Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ryd2H8wyz6V7__47PoVPaj3J89M",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "EDrqd7dmFb0"
+            },
+            "snippet": {
+                "publishedAt": "2022-05-19T07:20:15Z",
+                "channelId": "UCkM-5MsteXk27aAU52N0Ccg",
+                "title": "ASMR BLACK BEAN NOODLES, SPICY SEAFOOD, SPICY ENOKI MUSHROOM, 불닭 팽이버섯 먹방, OCTOPUS, 짜장 라면 먹방MUKBANG",
+                "description": "Please turn on the captions before you watch! :) Thank you for watching my video♥ 자막이 준비되어 있어요!ㅎㅎ 오늘도 제 영상 봐 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EDrqd7dmFb0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EDrqd7dmFb0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EDrqd7dmFb0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "GOYUMYUM고얌얌",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-05-19T07:20:15Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "X5Qi7tOdNaQp_RpfJ67T1VlFlU8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4TauLHmxTkY"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-07T09:52:52Z",
+                "channelId": "UCgcUFVynuKwaIZLJkjhzOVg",
+                "title": "CHICKEN BIRYANI, MUTTON BIRYANI, EGG BIRYANI, KALEJI BIRYANI, FISH BIRYANI, PRAWNS BIRYANI | MUKBANG",
+                "description": "Chicken Ala Kiev Recipe https://youtu.be/dms_LNzs_Zk Chicken Biryani Recipe https://youtu.be/T66QmIqzazs Mutton Biryani ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4TauLHmxTkY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4TauLHmxTkY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4TauLHmxTkY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MaddyEats",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-07T09:52:52Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "hC5RBRXfdp33-JdrgPoS_pysCSw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "GOH-G5n9eqU"
+            },
+            "snippet": {
+                "publishedAt": "2022-08-06T13:02:50Z",
+                "channelId": "UCtMq7I55sZJcvaWac2-z4Sw",
+                "title": "ASMR Trolli Gummy Planet 🌍 #asmr #mukbang #food",
+                "description": "WHICH SATISFYING ASMR MUKBANG EATING EMOJI FOOD CHALLENGE NEXT? Tasting lots of different foods, gummy balls, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GOH-G5n9eqU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GOH-G5n9eqU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GOH-G5n9eqU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Satisfying Lips",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-08-06T13:02:50Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "UC5WsWq1yjLP20sXKwwxKm_miBc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Xp3z-9AON54"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-24T02:06:20Z",
+                "channelId": "UCwUTiMzUDqsoTSWDPFHqyCg",
+                "title": "Which Natto sauce do you like?🌭🍯🥚🌿🌶️",
+                "description": "PR and Cook at Highball Inc. □TikTok https://www.tiktok.com/@dreadymd □Twitter https://twitter.com/DreadYamada □HighBall's ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Xp3z-9AON54/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Xp3z-9AON54/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Xp3z-9AON54/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Dread Yamada",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-24T02:06:20Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "8nOPhbSaVcmuFQWNdGPfO6t1g4Q",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xuXMVy0HTS8"
+            },
+            "snippet": {
+                "publishedAt": "2024-06-13T13:01:02Z",
+                "channelId": "UC2B5onlYkZ7IaVekR9yIB6w",
+                "title": "ASMR MUKBANG 편의점 핵불닭 미니!! 떡볶이 &amp; 핫도그 &amp; 김밥 FIRE Noodle &amp; HOT DOG &amp; GIMBAP EATING SOUND!",
+                "description": "먹방 #ASMR #MUKBANG 안녕하세요 맛있는 음식이 가득한 공삼테이블입니다! ✉비지니스 메일 : gongsam203@gmail.com ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xuXMVy0HTS8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xuXMVy0HTS8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xuXMVy0HTS8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "GONGSAM TABLE 이공삼",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-06-13T13:01:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Ef-D3JeH7FcTmcWRyAxfhScVdkQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "s5adV2Jtnsw"
+            },
+            "snippet": {
+                "publishedAt": "2024-01-19T05:30:13Z",
+                "channelId": "UCVidr_Df7gMAcLB2HBe1ZOA",
+                "title": "WORLD’S SPICIEST KOREAN NOODLES CHALLENGE😱 30 PACKETS OF KOREAN NOODLES🔥 #shorts #foodie #spicy",
+                "description": "WORLD'S SPICIEST KOREAN NOODLES CHALLENGE   30 PACKETS OF KOREAN NOODLES   #shorts #foodie #spicy Aaj ka ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/s5adV2Jtnsw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/s5adV2Jtnsw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/s5adV2Jtnsw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Wake'N'Bite",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-01-19T05:30:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "F80JQTt5cBY_B2PZ6tJ-Gz8IDnU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "fQcFdaESfuY"
+            },
+            "snippet": {
+                "publishedAt": "2023-06-19T12:46:33Z",
+                "channelId": "UCzXipoEpmE2VVOWtuTGc_Hw",
+                "title": "Nutella Crepe Rolls ASMR 🤤",
+                "description": "shorts #asmr #mukbang #nutella #chocolate.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fQcFdaESfuY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fQcFdaESfuY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fQcFdaESfuY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "McBang ASMR",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-06-19T12:46:33Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Ori9O6Ds9JdGn5eJAR_Z7BJEKvQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xRsrAS3tzTY"
+            },
+            "snippet": {
+                "publishedAt": "2023-02-26T04:00:17Z",
+                "channelId": "UCArs_L4O5f2-xWGXaVL0AOQ",
+                "title": "Seafood Feast丨eating spicy food and funny pranks丨funny mukbang丨tiktok video",
+                "description": "\"Please rest assured that this video focuses on the process of making delicious food. All ingredients are ethically and legally ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xRsrAS3tzTY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xRsrAS3tzTY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xRsrAS3tzTY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Eaters Squad",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-02-26T04:00:17Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "pNBaoncRkux6Hhs4vPJtgCLkSgc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "JOV89_Renos"
+            },
+            "snippet": {
+                "publishedAt": "2022-09-05T14:15:02Z",
+                "channelId": "UCxIqzFyychUsLlSC1-y8IEw",
+                "title": "ASMR eating spicy food | asmr eating noodles, asmr eating seafood #100 #asmr #Shorts",
+                "description": "asmr #asmreating #mukbang asmr, asmr eating, asmr eating spicy food, asmr eating noodles, asmr eating seafood, asmr eating ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JOV89_Renos/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JOV89_Renos/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JOV89_Renos/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Malich ASMR",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-09-05T14:15:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "UK0TlD9X8mj9Umo5UPpF5ipRwB0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "DJ1c13XiS4w"
+            },
+            "snippet": {
+                "publishedAt": "2023-05-12T21:39:49Z",
+                "channelId": "UC9Tmo0uKDqxx-OQ4E9uIW_w",
+                "title": "KING CRAB SEAFOOD BOIL MUKBANG | DESHELLED | SEAFOOD BOIL MUKBANG | Seafood | Mukbang",
+                "description": "King Crab SEAFOOD BOIL MUKBANG | SEAFOOD BOIL MUKBANG| SEAFOOD BOIL| MUKBANG | ASMR EATING ASMR FOOD ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DJ1c13XiS4w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DJ1c13XiS4w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DJ1c13XiS4w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Eatcookandliveitup Smile",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-05-12T21:39:49Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "36a9lWpYo1GEznl8f8Jtv6jKuLc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "IXF3zHmhv48"
+            },
+            "snippet": {
+                "publishedAt": "2023-09-03T13:00:11Z",
+                "channelId": "UC2B5onlYkZ7IaVekR9yIB6w",
+                "title": "ASMR MUKBANG 편의점 핵불닭 미니!! 떡볶이 &amp; 핫도그 &amp; 김밥 FIRE Noodle &amp; HOT DOG &amp; GIMBAP EATING SOUND!",
+                "description": "먹방 #ASMR #MUKBANG 안녕하세요 맛있는 음식이 가득한 공삼테이블입니다! ✉비지니스 메일 : gongsam203@gmail.com ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IXF3zHmhv48/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IXF3zHmhv48/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IXF3zHmhv48/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "GONGSAM TABLE 이공삼",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-09-03T13:00:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "DPXFXFVqaVB47KUoN9p9HPU-Ha8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1xtDsmbE91k"
+            },
+            "snippet": {
+                "publishedAt": "2022-10-26T12:00:02Z",
+                "channelId": "UCfpaSruWW3S4dibonKXENjA",
+                "title": "웨이팅만 기본 1시간..😵성수동 핫플 대림국수 전메뉴 먹방",
+                "description": "메일: gardenm1120@gmail.com.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1xtDsmbE91k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1xtDsmbE91k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1xtDsmbE91k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "tzuyang쯔양",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-10-26T12:00:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "FWJmsJ_a67VAhKP2jv4wyihH0vs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ANamFwEa9Qg"
+            },
+            "snippet": {
+                "publishedAt": "2022-12-14T09:00:04Z",
+                "channelId": "UC4PpFUrfT2Pou7OwpVF0MUQ",
+                "title": "역대급 🐙 대왕 문어다리 해물찜 직접 만든 해산물 볶음 짬뽕 먹방 🔥 Giant Octopus Seafood Jjamppong Recipe Mukbang ASMR Ssoyoung",
+                "description": "octopus #Seafood #Mukbang #Best #Reaction #Ssoyoung #Eatingsound #KoreanMukbang 오늘도 쏘영이의 영상을 시청해주셔서 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ANamFwEa9Qg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ANamFwEa9Qg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ANamFwEa9Qg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "쏘영 Ssoyoung",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-12-14T09:00:04Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "F2BYJ3mYmqM1QwWNKCcC8sZcLok",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "dmxJXgaZyjo"
+            },
+            "snippet": {
+                "publishedAt": "2020-12-07T12:00:11Z",
+                "channelId": "UCoLQZ4ZClFqVPCvvjuiUSRA",
+                "title": "SUB)겉바속촉 윤기좔좔 튀김족발 먹방 ! 🍖 막국수에 주먹밥까지 쌈싸먹기 fried jokbal makguksu mukbang ASMR",
+                "description": "각국어 번역 자막 제작 : 컨텐츠 제작의 마무리는 컨텐츠플라이! 글로벌 진출을 위한 최고의 파트너, CONTENTSFLY에서 제작 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dmxJXgaZyjo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dmxJXgaZyjo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dmxJXgaZyjo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "문복희 Eat with Boki",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-12-07T12:00:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "0l4uKNyGphqCJGf71-GkfXwCY1Y",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "EoMxn7v16ck"
+            },
+            "snippet": {
+                "publishedAt": "2022-12-03T02:00:07Z",
+                "channelId": "UCTheFErn4MureanSiqgKIag",
+                "title": "Mukbang Fire Spicy Noodle Tteokbokki 불닭볶음면 떡볶이 TV 속 편의점 음식 먹방 DONA 도나",
+                "description": "도나와 친구의 불닭볶음면 뽀로로 떡볶이 TV 속 편의점 음식 몰래 먹기 먹방~! DONA and friend fire spicy noodle pororo Tteokbokki ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EoMxn7v16ck/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EoMxn7v16ck/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EoMxn7v16ck/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "DONA 도나",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-12-03T02:00:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "KMODo1hDixhvFvonqSF3NRUFVKY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "3NBnUqK1Jg0"
+            },
+            "snippet": {
+                "publishedAt": "2023-09-17T13:00:03Z",
+                "channelId": "UC2B5onlYkZ7IaVekR9yIB6w",
+                "title": "ASMR MUKBANG 직접 만든 불닭 짜장 버섯 양념치킨 소세지 먹방 &amp; 레시피 FRIED CHICKEN AND FIRE NOODLES EATING SOUND!",
+                "description": "먹방 #ASMR #MUKBANG 안녕하세요 맛있는 음식이 가득한 공삼테이블입니다! ✉비지니스 메일 : gongsam203@gmail.com ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3NBnUqK1Jg0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3NBnUqK1Jg0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3NBnUqK1Jg0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "GONGSAM TABLE 이공삼",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-09-17T13:00:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "O8xPjiqj2Ml7mX5bz8gSy95Up6Y",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rdj-Ov-TKmU"
+            },
+            "snippet": {
+                "publishedAt": "2024-04-09T16:27:27Z",
+                "channelId": "UCxCxmmjFbHz7Ief3m87MQOA",
+                "title": "Green Food VS Brown Food Challenge ASMR🪴💩#mukbang #asmr #shorts",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rdj-Ov-TKmU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rdj-Ov-TKmU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rdj-Ov-TKmU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "TwinKle Couple",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-04-09T16:27:27Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "cCTA_UnCoCbtyf9dSUrk55Y9E84",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rmWXRoJVxh8"
+            },
+            "snippet": {
+                "publishedAt": "2020-10-15T23:25:23Z",
+                "channelId": "UCB7Te5Pb6LOTFV7i0Rzp8dg",
+                "title": "ASMR EDIBLE SLIME, HAIR BRUSH, TIK TOK FRUIT JELLY, JELLO POPSICLE, PURPLE FOOD, CANDY MUKBANG 먹방",
+                "description": "ASMR EDIBLE SLIME, HAIR BRUSH, TIK TOK FRUIT JELLY, JELLO POPSICLE, PURPLE FOOD, CANDY MUKBANG 먹방 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rmWXRoJVxh8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rmWXRoJVxh8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rmWXRoJVxh8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "HunniBee ASMR",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-10-15T23:25:23Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "6tK2NUS6mISbC1GaoZJv5ZfQvBw",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UChXqvaGDLD8jfjFXPq66XHg"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-31T08:37:31Z",
+                "channelId": "UChXqvaGDLD8jfjFXPq66XHg",
+                "title": "Akshanshu Aswal",
+                "description": "Indian guy who loves food, fitness, traveling and filmmaking more than anything else. I lost 22kg during the months of March, April ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AIdro_moLuvX0lVNn9fA0kib4oXF_J1tmeUqI3Veqs3NlX7KnVM=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AIdro_moLuvX0lVNn9fA0kib4oXF_J1tmeUqI3Veqs3NlX7KnVM=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AIdro_moLuvX0lVNn9fA0kib4oXF_J1tmeUqI3Veqs3NlX7KnVM=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "Akshanshu Aswal",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-05-31T08:37:31Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "1rCWoGYyGx7hSQnKad-kDoFmvzI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "UyWGtR-W3p0"
+            },
+            "snippet": {
+                "publishedAt": "2023-04-06T20:00:16Z",
+                "channelId": "UCd56a0h30H_M-ijkde5GVuA",
+                "title": "mukbang | Tripe | money belly | eat spicy | chinese food | fatsongsong and thinermao | hiu 하이유",
+                "description": "mukbang | Tripe | money belly | eat spicy | chinese food | fatsongsong and thinermao | hiu 하이유, Hello everyone, this is the funny ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UyWGtR-W3p0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UyWGtR-W3p0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UyWGtR-W3p0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "FatSongsong and ThinErmao",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-04-06T20:00:16Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "2hG4k69Z6ko6X8YaOBIUlUzVVPg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vu3zkWsDLiY"
+            },
+            "snippet": {
+                "publishedAt": "2022-11-10T11:45:02Z",
+                "channelId": "UCHQnFdxn3kqIzx4yLENS-Iw",
+                "title": "ASMR 명랑핫도그🌭모짜렐라 추가한 떡볶이 라면땅핫도그 소떡소떡 치즈볼 먹방~! Cheese Tteokbokki With Crispy Corn Dog 🧀Ball MuKBang!",
+                "description": "핫도그 #떡볶이 #치즈볼 #corndog #tteokbokki #cheese ▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭ 광고 / 협찬문의: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vu3zkWsDLiY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vu3zkWsDLiY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vu3zkWsDLiY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "봉길이 Bonggil",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-11-10T11:45:02Z"
+            }
+        }
+    ]
+}
