@@ -1,855 +1,1031 @@
 {
     "kind": "youtube#searchListResponse",
-    "etag": "fW2Qt0-cVdJ-o5bqFwNrJFqL6Co",
-    "nextPageToken": "CBkQAA",
+    "etag": "0oEN-6vr73aQzaWgV5Mq7L6X9Ew",
+    "nextPageToken": "CB4QAA",
     "regionCode": "KR",
     "pageInfo": {
-        "totalResults": 470894,
-        "resultsPerPage": 25
+        "totalResults": 1000000,
+        "resultsPerPage": 30
     },
     "items": [
         {
             "kind": "youtube#searchResult",
-            "etag": "XCwSmTSQlf1Fc_gO4wa-UO5UBU0",
+            "etag": "2qOvZrrPgxXNp7KdYsDTaKg74gs",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "GPBe-oYlG1A"
+                "videoId": "pVBZK5qhX5Y"
             },
             "snippet": {
-                "publishedAt": "2023-03-02T03:03:00Z",
-                "channelId": "UCI78AdiI6f7VKhqW1i4B3Rw",
-                "title": "ASMR MUKBANG | Fast Food, Big Mac, Chicken Nuggets, Onion Rings, Chicken Sandwich, Wings, Fries",
-                "description": "ASMR MUKBANG | Fast Food, Big Mac, Chicken Nuggets, Onion Rings, Chicken Sandwich, Wings, Fries Check out my ...",
+                "publishedAt": "2024-07-04T07:16:27Z",
+                "channelId": "UC7lP46vHWIdZbT0X7Ud0AAA",
+                "title": "아팠던 아기 고양이가 이제 눈만 마주치면 달려와요 ㅠㅠ",
+                "description": "고양이 #마일로 #베베집사 베베집사 굿즈 : https://naver.me/59iWF8Pl 2024 털복숭이 달력: ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/GPBe-oYlG1A/default.jpg",
+                        "url": "https://i.ytimg.com/vi/pVBZK5qhX5Y/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/GPBe-oYlG1A/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/pVBZK5qhX5Y/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/GPBe-oYlG1A/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/pVBZK5qhX5Y/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Zach Choi ASMR",
+                "channelTitle": "털복숭이들과 베베집사 Bebe8Cats",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-03-02T03:03:00Z"
+                "publishTime": "2024-07-04T07:16:27Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "BLnr7K3miaz8yvcNRcr4vULR2nc",
+            "etag": "KTBiBSmcp6cgjG5me5wZicfJ5j8",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "EuySE6259wQ"
+                "videoId": "QcvuKd0K8nI"
             },
             "snippet": {
-                "publishedAt": "2020-02-29T13:45:01Z",
-                "channelId": "UCIafb9ExBkh4WsCOagZssZA",
-                "title": "ASMR MUKBANG| 직접 만든 떡볶이 양념치킨 김밥 먹방 &amp; 레시피 FRIED CHICKEN AND Tteokbokki EATING",
-                "description": "먹방 #ASMR #MUKBANG #떡볶이 #양념치킨 #김밥 #튀김 문의메일 sulgi506@gmail.com 인스타 ...",
+                "publishedAt": "2024-07-05T08:57:05Z",
+                "channelId": "UC7lP46vHWIdZbT0X7Ud0AAA",
+                "title": "사람같이 자는 묘생 N년차 아기 고양이",
+                "description": "고양이 #마일로 #베베집사 베베집사 굿즈 : https://naver.me/59iWF8Pl 2024 털복숭이 달력: ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/EuySE6259wQ/default.jpg",
+                        "url": "https://i.ytimg.com/vi/QcvuKd0K8nI/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/EuySE6259wQ/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/QcvuKd0K8nI/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/EuySE6259wQ/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/QcvuKd0K8nI/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "설기양SULGI",
+                "channelTitle": "털복숭이들과 베베집사 Bebe8Cats",
                 "liveBroadcastContent": "none",
-                "publishTime": "2020-02-29T13:45:01Z"
+                "publishTime": "2024-07-05T08:57:05Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "WkAtcyW5-5VsVMleuMXbAlpRykk",
+            "etag": "SbSiVIZWWnlKCqWsRjaU36RHOdI",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "-Z_OE-TjXIY"
+                "videoId": "UHaPC5FYvlY"
             },
             "snippet": {
-                "publishedAt": "2024-03-16T17:22:06Z",
-                "channelId": "UCtM58H2QaTXTi7OIRAVgAGg",
-                "title": "Pick a Flag!? 🥵 (Spicy ASMR) ft. @sushi.monsters",
+                "publishedAt": "2024-06-24T08:00:23Z",
+                "channelId": "UCRWxH4fGhuNsh0klWnDbt0w",
+                "title": "고단수 고양이 #shorts #shortvideo #고양이 #시트콤",
                 "description": "",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/-Z_OE-TjXIY/default.jpg",
+                        "url": "https://i.ytimg.com/vi/UHaPC5FYvlY/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/-Z_OE-TjXIY/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/UHaPC5FYvlY/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/-Z_OE-TjXIY/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/UHaPC5FYvlY/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Spizee",
+                "channelTitle": "언더월드 UNDER WORLD",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-03-16T17:22:06Z"
+                "publishTime": "2024-06-24T08:00:23Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "K1C7XLmcE2vf_vXIfaaXZK-kyqs",
+            "etag": "4d_rdU5tRMKI59vncjuaK1LfuF8",
             "id": {
-                "kind": "youtube#playlist",
-                "playlistId": "PL-xb2stbjYhOAvLgqMEdsyZ6sEyF9ZnZr"
+                "kind": "youtube#video",
+                "videoId": "aABMO6ZPaP8"
             },
             "snippet": {
-                "publishedAt": "2019-08-21T05:16:45Z",
-                "channelId": "UC6MjPpbfU_lfyYp2qAv5Osw",
-                "title": "Smosh makbang",
+                "publishedAt": "2024-06-16T03:00:00Z",
+                "channelId": "UC7mJ6eYBVVTwk-hM6SUox1Q",
+                "title": "역변한 고양이를 인증하는 사람들ㅋㅋ",
                 "description": "",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/JuAcecYNPQA/default.jpg",
+                        "url": "https://i.ytimg.com/vi/aABMO6ZPaP8/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/JuAcecYNPQA/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/aABMO6ZPaP8/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/JuAcecYNPQA/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/aABMO6ZPaP8/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "6545l",
+                "channelTitle": "구구절절",
                 "liveBroadcastContent": "none",
-                "publishTime": "2019-08-21T05:16:45Z"
+                "publishTime": "2024-06-16T03:00:00Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "ryd2H8wyz6V7__47PoVPaj3J89M",
+            "etag": "KjT1nKsdqeQV-9HRCi9GnJDRsXk",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "EDrqd7dmFb0"
+                "videoId": "BjniriYXrVM"
             },
             "snippet": {
-                "publishedAt": "2022-05-19T07:20:15Z",
-                "channelId": "UCkM-5MsteXk27aAU52N0Ccg",
-                "title": "ASMR BLACK BEAN NOODLES, SPICY SEAFOOD, SPICY ENOKI MUSHROOM, 불닭 팽이버섯 먹방, OCTOPUS, 짜장 라면 먹방MUKBANG",
-                "description": "Please turn on the captions before you watch! :) Thank you for watching my video♥ 자막이 준비되어 있어요!ㅎㅎ 오늘도 제 영상 봐 ...",
+                "publishedAt": "2024-07-05T09:00:08Z",
+                "channelId": "UCQcYgOAfbpkd7CAFfwPF0vA",
+                "title": "집고양이가 탈출했다! 탈출한 고양이와 마주친 마당냥이들의 반응이..",
+                "description": "배은망덕 하우스 식구들을 모집합니다 ☆ https://www.youtube.com/channel/UCQcYgOAfbpkd7CAFfwPF0vA/join 집고양이인 결이가 ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/EDrqd7dmFb0/default.jpg",
+                        "url": "https://i.ytimg.com/vi/BjniriYXrVM/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/EDrqd7dmFb0/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/BjniriYXrVM/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/EDrqd7dmFb0/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/BjniriYXrVM/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "GOYUMYUM고얌얌",
+                "channelTitle": "배은망덕고양이들",
                 "liveBroadcastContent": "none",
-                "publishTime": "2022-05-19T07:20:15Z"
+                "publishTime": "2024-07-05T09:00:08Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "X5Qi7tOdNaQp_RpfJ67T1VlFlU8",
+            "etag": "Jnwo8h-pVI4nYdVvkC1MH28sj8Y",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "4TauLHmxTkY"
+                "videoId": "_bAP1aFsiAQ"
             },
             "snippet": {
-                "publishedAt": "2023-06-07T09:52:52Z",
-                "channelId": "UCgcUFVynuKwaIZLJkjhzOVg",
-                "title": "CHICKEN BIRYANI, MUTTON BIRYANI, EGG BIRYANI, KALEJI BIRYANI, FISH BIRYANI, PRAWNS BIRYANI | MUKBANG",
-                "description": "Chicken Ala Kiev Recipe https://youtu.be/dms_LNzs_Zk Chicken Biryani Recipe https://youtu.be/T66QmIqzazs Mutton Biryani ...",
+                "publishedAt": "2024-04-27T03:29:49Z",
+                "channelId": "UCaaZFxjlHI3T_I-uFbldIGA",
+                "title": "꽁꽁 고양이",
+                "description": "소맥거핀 #꽁꽁얼어붙은한강위로고양이가걸어다닙니다 #meme #shorts 꽁꽁 얼어붙은 한강 위로 고양이가 걸어다닙니다 Cat ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/4TauLHmxTkY/default.jpg",
+                        "url": "https://i.ytimg.com/vi/_bAP1aFsiAQ/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/4TauLHmxTkY/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/_bAP1aFsiAQ/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/4TauLHmxTkY/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/_bAP1aFsiAQ/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "MaddyEats",
+                "channelTitle": "소맥거핀",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-06-07T09:52:52Z"
+                "publishTime": "2024-04-27T03:29:49Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "hC5RBRXfdp33-JdrgPoS_pysCSw",
+            "etag": "wFALXLwCKFZmmHS-Q0ETgy3DeIY",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "GOH-G5n9eqU"
+                "videoId": "5v9zPjYhq_Q"
             },
             "snippet": {
-                "publishedAt": "2022-08-06T13:02:50Z",
-                "channelId": "UCtMq7I55sZJcvaWac2-z4Sw",
-                "title": "ASMR Trolli Gummy Planet 🌍 #asmr #mukbang #food",
-                "description": "WHICH SATISFYING ASMR MUKBANG EATING EMOJI FOOD CHALLENGE NEXT? Tasting lots of different foods, gummy balls, ...",
+                "publishedAt": "2024-07-04T03:00:04Z",
+                "channelId": "UCkuA_gDjISfGgbdp02BUwyQ",
+                "title": "윗집 층간소음 때문에 고양이들이 난리가 났어요",
+                "description": "윗집 #층간소음 #고양이 크집사 채널의 수익은 강아지/고양이 신장병 연구에 사용됩니다. * 닥터토루 프로토콜 트릿 ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/GOH-G5n9eqU/default.jpg",
+                        "url": "https://i.ytimg.com/vi/5v9zPjYhq_Q/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/GOH-G5n9eqU/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/5v9zPjYhq_Q/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/GOH-G5n9eqU/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/5v9zPjYhq_Q/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Satisfying Lips",
+                "channelTitle": "크집사",
                 "liveBroadcastContent": "none",
-                "publishTime": "2022-08-06T13:02:50Z"
+                "publishTime": "2024-07-04T03:00:04Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "UC5WsWq1yjLP20sXKwwxKm_miBc",
+            "etag": "etfd8otOlzPeApeKvIok-_ZoKgU",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "Xp3z-9AON54"
+                "videoId": "tZlYyGVIk3k"
             },
             "snippet": {
-                "publishedAt": "2023-06-24T02:06:20Z",
-                "channelId": "UCwUTiMzUDqsoTSWDPFHqyCg",
-                "title": "Which Natto sauce do you like?🌭🍯🥚🌿🌶️",
-                "description": "PR and Cook at Highball Inc. □TikTok https://www.tiktok.com/@dreadymd □Twitter https://twitter.com/DreadYamada □HighBall's ...",
+                "publishedAt": "2024-07-04T10:00:51Z",
+                "channelId": "UCP1CQH2PVJv4-glNTuVJl3g",
+                "title": "고양이가 이런행동을 하면 당장 바꾸셔야 합니다",
+                "description": "MilkyBokiTan #밀키복이탄이#두잇스크래쳐 인스타그램 - https://www.instagram.com/milkyboki/ 페이스북 ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/Xp3z-9AON54/default.jpg",
+                        "url": "https://i.ytimg.com/vi/tZlYyGVIk3k/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/Xp3z-9AON54/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/tZlYyGVIk3k/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/Xp3z-9AON54/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/tZlYyGVIk3k/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Dread Yamada",
+                "channelTitle": "밀키복이탄이MilkyBokiTan",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-06-24T02:06:20Z"
+                "publishTime": "2024-07-04T10:00:51Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "8nOPhbSaVcmuFQWNdGPfO6t1g4Q",
+            "etag": "psVfHdoQOqu_OKL-BS4lbX3Nwk0",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "xuXMVy0HTS8"
+                "videoId": "Y_37jFan-eA"
             },
             "snippet": {
-                "publishedAt": "2024-06-13T13:01:02Z",
-                "channelId": "UC2B5onlYkZ7IaVekR9yIB6w",
-                "title": "ASMR MUKBANG 편의점 핵불닭 미니!! 떡볶이 &amp; 핫도그 &amp; 김밥 FIRE Noodle &amp; HOT DOG &amp; GIMBAP EATING SOUND!",
-                "description": "먹방 #ASMR #MUKBANG 안녕하세요 맛있는 음식이 가득한 공삼테이블입니다! ✉비지니스 메일 : gongsam203@gmail.com ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/xuXMVy0HTS8/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/xuXMVy0HTS8/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/xuXMVy0HTS8/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "GONGSAM TABLE 이공삼",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-06-13T13:01:02Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "Ef-D3JeH7FcTmcWRyAxfhScVdkQ",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "s5adV2Jtnsw"
-            },
-            "snippet": {
-                "publishedAt": "2024-01-19T05:30:13Z",
-                "channelId": "UCVidr_Df7gMAcLB2HBe1ZOA",
-                "title": "WORLD’S SPICIEST KOREAN NOODLES CHALLENGE😱 30 PACKETS OF KOREAN NOODLES🔥 #shorts #foodie #spicy",
-                "description": "WORLD'S SPICIEST KOREAN NOODLES CHALLENGE   30 PACKETS OF KOREAN NOODLES   #shorts #foodie #spicy Aaj ka ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/s5adV2Jtnsw/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/s5adV2Jtnsw/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/s5adV2Jtnsw/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Wake'N'Bite",
-                "liveBroadcastContent": "none",
-                "publishTime": "2024-01-19T05:30:13Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "F80JQTt5cBY_B2PZ6tJ-Gz8IDnU",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "fQcFdaESfuY"
-            },
-            "snippet": {
-                "publishedAt": "2023-06-19T12:46:33Z",
-                "channelId": "UCzXipoEpmE2VVOWtuTGc_Hw",
-                "title": "Nutella Crepe Rolls ASMR 🤤",
-                "description": "shorts #asmr #mukbang #nutella #chocolate.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/fQcFdaESfuY/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/fQcFdaESfuY/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/fQcFdaESfuY/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "McBang ASMR",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-06-19T12:46:33Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "Ori9O6Ds9JdGn5eJAR_Z7BJEKvQ",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "xRsrAS3tzTY"
-            },
-            "snippet": {
-                "publishedAt": "2023-02-26T04:00:17Z",
-                "channelId": "UCArs_L4O5f2-xWGXaVL0AOQ",
-                "title": "Seafood Feast丨eating spicy food and funny pranks丨funny mukbang丨tiktok video",
-                "description": "\"Please rest assured that this video focuses on the process of making delicious food. All ingredients are ethically and legally ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/xRsrAS3tzTY/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/xRsrAS3tzTY/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/xRsrAS3tzTY/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Eaters Squad",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-02-26T04:00:17Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "pNBaoncRkux6Hhs4vPJtgCLkSgc",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "JOV89_Renos"
-            },
-            "snippet": {
-                "publishedAt": "2022-09-05T14:15:02Z",
-                "channelId": "UCxIqzFyychUsLlSC1-y8IEw",
-                "title": "ASMR eating spicy food | asmr eating noodles, asmr eating seafood #100 #asmr #Shorts",
-                "description": "asmr #asmreating #mukbang asmr, asmr eating, asmr eating spicy food, asmr eating noodles, asmr eating seafood, asmr eating ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/JOV89_Renos/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/JOV89_Renos/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/JOV89_Renos/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Malich ASMR",
-                "liveBroadcastContent": "none",
-                "publishTime": "2022-09-05T14:15:02Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "UK0TlD9X8mj9Umo5UPpF5ipRwB0",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "DJ1c13XiS4w"
-            },
-            "snippet": {
-                "publishedAt": "2023-05-12T21:39:49Z",
-                "channelId": "UC9Tmo0uKDqxx-OQ4E9uIW_w",
-                "title": "KING CRAB SEAFOOD BOIL MUKBANG | DESHELLED | SEAFOOD BOIL MUKBANG | Seafood | Mukbang",
-                "description": "King Crab SEAFOOD BOIL MUKBANG | SEAFOOD BOIL MUKBANG| SEAFOOD BOIL| MUKBANG | ASMR EATING ASMR FOOD ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/DJ1c13XiS4w/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/DJ1c13XiS4w/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/DJ1c13XiS4w/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "Eatcookandliveitup Smile",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-05-12T21:39:49Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "36a9lWpYo1GEznl8f8Jtv6jKuLc",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "IXF3zHmhv48"
-            },
-            "snippet": {
-                "publishedAt": "2023-09-03T13:00:11Z",
-                "channelId": "UC2B5onlYkZ7IaVekR9yIB6w",
-                "title": "ASMR MUKBANG 편의점 핵불닭 미니!! 떡볶이 &amp; 핫도그 &amp; 김밥 FIRE Noodle &amp; HOT DOG &amp; GIMBAP EATING SOUND!",
-                "description": "먹방 #ASMR #MUKBANG 안녕하세요 맛있는 음식이 가득한 공삼테이블입니다! ✉비지니스 메일 : gongsam203@gmail.com ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/IXF3zHmhv48/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/IXF3zHmhv48/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/IXF3zHmhv48/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "GONGSAM TABLE 이공삼",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-09-03T13:00:11Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "DPXFXFVqaVB47KUoN9p9HPU-Ha8",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "1xtDsmbE91k"
-            },
-            "snippet": {
-                "publishedAt": "2022-10-26T12:00:02Z",
-                "channelId": "UCfpaSruWW3S4dibonKXENjA",
-                "title": "웨이팅만 기본 1시간..😵성수동 핫플 대림국수 전메뉴 먹방",
-                "description": "메일: gardenm1120@gmail.com.",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/1xtDsmbE91k/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/1xtDsmbE91k/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/1xtDsmbE91k/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "tzuyang쯔양",
-                "liveBroadcastContent": "none",
-                "publishTime": "2022-10-26T12:00:02Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "FWJmsJ_a67VAhKP2jv4wyihH0vs",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "ANamFwEa9Qg"
-            },
-            "snippet": {
-                "publishedAt": "2022-12-14T09:00:04Z",
-                "channelId": "UC4PpFUrfT2Pou7OwpVF0MUQ",
-                "title": "역대급 🐙 대왕 문어다리 해물찜 직접 만든 해산물 볶음 짬뽕 먹방 🔥 Giant Octopus Seafood Jjamppong Recipe Mukbang ASMR Ssoyoung",
-                "description": "octopus #Seafood #Mukbang #Best #Reaction #Ssoyoung #Eatingsound #KoreanMukbang 오늘도 쏘영이의 영상을 시청해주셔서 ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/ANamFwEa9Qg/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/ANamFwEa9Qg/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/ANamFwEa9Qg/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "쏘영 Ssoyoung",
-                "liveBroadcastContent": "none",
-                "publishTime": "2022-12-14T09:00:04Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "F2BYJ3mYmqM1QwWNKCcC8sZcLok",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "dmxJXgaZyjo"
-            },
-            "snippet": {
-                "publishedAt": "2020-12-07T12:00:11Z",
-                "channelId": "UCoLQZ4ZClFqVPCvvjuiUSRA",
-                "title": "SUB)겉바속촉 윤기좔좔 튀김족발 먹방 ! 🍖 막국수에 주먹밥까지 쌈싸먹기 fried jokbal makguksu mukbang ASMR",
-                "description": "각국어 번역 자막 제작 : 컨텐츠 제작의 마무리는 컨텐츠플라이! 글로벌 진출을 위한 최고의 파트너, CONTENTSFLY에서 제작 ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/dmxJXgaZyjo/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/dmxJXgaZyjo/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/dmxJXgaZyjo/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "문복희 Eat with Boki",
-                "liveBroadcastContent": "none",
-                "publishTime": "2020-12-07T12:00:11Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "0l4uKNyGphqCJGf71-GkfXwCY1Y",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "EoMxn7v16ck"
-            },
-            "snippet": {
-                "publishedAt": "2022-12-03T02:00:07Z",
-                "channelId": "UCTheFErn4MureanSiqgKIag",
-                "title": "Mukbang Fire Spicy Noodle Tteokbokki 불닭볶음면 떡볶이 TV 속 편의점 음식 먹방 DONA 도나",
-                "description": "도나와 친구의 불닭볶음면 뽀로로 떡볶이 TV 속 편의점 음식 몰래 먹기 먹방~! DONA and friend fire spicy noodle pororo Tteokbokki ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/EoMxn7v16ck/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/EoMxn7v16ck/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/EoMxn7v16ck/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "DONA 도나",
-                "liveBroadcastContent": "none",
-                "publishTime": "2022-12-03T02:00:07Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "KMODo1hDixhvFvonqSF3NRUFVKY",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "3NBnUqK1Jg0"
-            },
-            "snippet": {
-                "publishedAt": "2023-09-17T13:00:03Z",
-                "channelId": "UC2B5onlYkZ7IaVekR9yIB6w",
-                "title": "ASMR MUKBANG 직접 만든 불닭 짜장 버섯 양념치킨 소세지 먹방 &amp; 레시피 FRIED CHICKEN AND FIRE NOODLES EATING SOUND!",
-                "description": "먹방 #ASMR #MUKBANG 안녕하세요 맛있는 음식이 가득한 공삼테이블입니다! ✉비지니스 메일 : gongsam203@gmail.com ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://i.ytimg.com/vi/3NBnUqK1Jg0/default.jpg",
-                        "width": 120,
-                        "height": 90
-                    },
-                    "medium": {
-                        "url": "https://i.ytimg.com/vi/3NBnUqK1Jg0/mqdefault.jpg",
-                        "width": 320,
-                        "height": 180
-                    },
-                    "high": {
-                        "url": "https://i.ytimg.com/vi/3NBnUqK1Jg0/hqdefault.jpg",
-                        "width": 480,
-                        "height": 360
-                    }
-                },
-                "channelTitle": "GONGSAM TABLE 이공삼",
-                "liveBroadcastContent": "none",
-                "publishTime": "2023-09-17T13:00:03Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "O8xPjiqj2Ml7mX5bz8gSy95Up6Y",
-            "id": {
-                "kind": "youtube#video",
-                "videoId": "rdj-Ov-TKmU"
-            },
-            "snippet": {
-                "publishedAt": "2024-04-09T16:27:27Z",
-                "channelId": "UCxCxmmjFbHz7Ief3m87MQOA",
-                "title": "Green Food VS Brown Food Challenge ASMR🪴💩#mukbang #asmr #shorts",
+                "publishedAt": "2024-06-17T08:00:18Z",
+                "channelId": "UCRWxH4fGhuNsh0klWnDbt0w",
+                "title": "복화술의 달인 고양이 집사 #shorts #shortvideo #고양이 #시트콤",
                 "description": "",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/rdj-Ov-TKmU/default.jpg",
+                        "url": "https://i.ytimg.com/vi/Y_37jFan-eA/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/rdj-Ov-TKmU/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Y_37jFan-eA/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/rdj-Ov-TKmU/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Y_37jFan-eA/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "TwinKle Couple",
+                "channelTitle": "언더월드 UNDER WORLD",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-04-09T16:27:27Z"
+                "publishTime": "2024-06-17T08:00:18Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "cCTA_UnCoCbtyf9dSUrk55Y9E84",
+            "etag": "bZfpA65JeDdq_qPsuS2qqBoGW4g",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "rmWXRoJVxh8"
+                "videoId": "miQ9Munt0uI"
             },
             "snippet": {
-                "publishedAt": "2020-10-15T23:25:23Z",
-                "channelId": "UCB7Te5Pb6LOTFV7i0Rzp8dg",
-                "title": "ASMR EDIBLE SLIME, HAIR BRUSH, TIK TOK FRUIT JELLY, JELLO POPSICLE, PURPLE FOOD, CANDY MUKBANG 먹방",
-                "description": "ASMR EDIBLE SLIME, HAIR BRUSH, TIK TOK FRUIT JELLY, JELLO POPSICLE, PURPLE FOOD, CANDY MUKBANG 먹방 ...",
+                "publishedAt": "2024-06-10T10:10:08Z",
+                "channelId": "UCaaZFxjlHI3T_I-uFbldIGA",
+                "title": "고양이 + 발냄새",
+                "description": "소맥거핀 #애니메이션 #일상 #shorts Ocean Background Meme.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/rmWXRoJVxh8/default.jpg",
+                        "url": "https://i.ytimg.com/vi/miQ9Munt0uI/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/rmWXRoJVxh8/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/miQ9Munt0uI/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/rmWXRoJVxh8/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/miQ9Munt0uI/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "HunniBee ASMR",
+                "channelTitle": "소맥거핀",
                 "liveBroadcastContent": "none",
-                "publishTime": "2020-10-15T23:25:23Z"
+                "publishTime": "2024-06-10T10:10:08Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "6tK2NUS6mISbC1GaoZJv5ZfQvBw",
-            "id": {
-                "kind": "youtube#channel",
-                "channelId": "UChXqvaGDLD8jfjFXPq66XHg"
-            },
-            "snippet": {
-                "publishedAt": "2020-05-31T08:37:31Z",
-                "channelId": "UChXqvaGDLD8jfjFXPq66XHg",
-                "title": "Akshanshu Aswal",
-                "description": "Indian guy who loves food, fitness, traveling and filmmaking more than anything else. I lost 22kg during the months of March, April ...",
-                "thumbnails": {
-                    "default": {
-                        "url": "https://yt3.ggpht.com/ytc/AIdro_moLuvX0lVNn9fA0kib4oXF_J1tmeUqI3Veqs3NlX7KnVM=s88-c-k-c0xffffffff-no-rj-mo"
-                    },
-                    "medium": {
-                        "url": "https://yt3.ggpht.com/ytc/AIdro_moLuvX0lVNn9fA0kib4oXF_J1tmeUqI3Veqs3NlX7KnVM=s240-c-k-c0xffffffff-no-rj-mo"
-                    },
-                    "high": {
-                        "url": "https://yt3.ggpht.com/ytc/AIdro_moLuvX0lVNn9fA0kib4oXF_J1tmeUqI3Veqs3NlX7KnVM=s800-c-k-c0xffffffff-no-rj-mo"
-                    }
-                },
-                "channelTitle": "Akshanshu Aswal",
-                "liveBroadcastContent": "none",
-                "publishTime": "2020-05-31T08:37:31Z"
-            }
-        },
-        {
-            "kind": "youtube#searchResult",
-            "etag": "1rCWoGYyGx7hSQnKad-kDoFmvzI",
+            "etag": "2YCcAU5L58uMtpPyYmmoDU87mQM",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "UyWGtR-W3p0"
+                "videoId": "yz-EaGvRS1Q"
             },
             "snippet": {
-                "publishedAt": "2023-04-06T20:00:16Z",
-                "channelId": "UCd56a0h30H_M-ijkde5GVuA",
-                "title": "mukbang | Tripe | money belly | eat spicy | chinese food | fatsongsong and thinermao | hiu 하이유",
-                "description": "mukbang | Tripe | money belly | eat spicy | chinese food | fatsongsong and thinermao | hiu 하이유, Hello everyone, this is the funny ...",
+                "publishedAt": "2024-07-04T11:30:35Z",
+                "channelId": "UC69l_rtlCQ7M4Mz2RCS80BA",
+                "title": "고양이가 이런 얼굴이면 조심하세요! 사람을 줍는 고양이관상 분석",
+                "description": "오늘도 고양이 관상이 궁금한 손님들로 북적이는 미야옹관상소   미야옹철 고양이 관상 오리지널 논란(?)부터 길에서 집사 간택하는 ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/UyWGtR-W3p0/default.jpg",
+                        "url": "https://i.ytimg.com/vi/yz-EaGvRS1Q/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/UyWGtR-W3p0/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/yz-EaGvRS1Q/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/UyWGtR-W3p0/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/yz-EaGvRS1Q/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "FatSongsong and ThinErmao",
+                "channelTitle": "미야옹철의 냥냥펀치",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-04-06T20:00:16Z"
+                "publishTime": "2024-07-04T11:30:35Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "2hG4k69Z6ko6X8YaOBIUlUzVVPg",
+            "etag": "MK0EkVvwATnqO3ujFGqMVAQYoFM",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "vu3zkWsDLiY"
+                "videoId": "d0xdwr30Kao"
             },
             "snippet": {
-                "publishedAt": "2022-11-10T11:45:02Z",
-                "channelId": "UCHQnFdxn3kqIzx4yLENS-Iw",
-                "title": "ASMR 명랑핫도그🌭모짜렐라 추가한 떡볶이 라면땅핫도그 소떡소떡 치즈볼 먹방~! Cheese Tteokbokki With Crispy Corn Dog 🧀Ball MuKBang!",
-                "description": "핫도그 #떡볶이 #치즈볼 #corndog #tteokbokki #cheese ▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭▭ 광고 / 협찬문의: ...",
+                "publishedAt": "2024-06-23T08:30:08Z",
+                "channelId": "UCpjGx5G4prqiBP2ie_1snyw",
+                "title": "남친이랑 드라이브 갈 때ㅋㅋㅋ",
+                "description": "해피캣 #유머 #썰 #고양이 #cat #comedy #catmemes #고양이일상 #커플 #공감 #커플브이로그 #연애.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/vu3zkWsDLiY/default.jpg",
+                        "url": "https://i.ytimg.com/vi/d0xdwr30Kao/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/vu3zkWsDLiY/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/d0xdwr30Kao/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/vu3zkWsDLiY/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/d0xdwr30Kao/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "봉길이 Bonggil",
+                "channelTitle": "슈뢰딩거의고양이",
                 "liveBroadcastContent": "none",
-                "publishTime": "2022-11-10T11:45:02Z"
+                "publishTime": "2024-06-23T08:30:08Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "tYwwPUN9-XaGKbzGzCHMmDKyw3c",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5I8ye_BIzA8"
+            },
+            "snippet": {
+                "publishedAt": "2024-07-03T10:00:06Z",
+                "channelId": "UCLmeWUramUY8YAQ6A40Ionw",
+                "title": "고양이 개빡치게 하기 ㅋㅋㅋㅋ",
+                "description": "instagram @muuuuuuji 타 임 라 인 0:00 꽉꽉꽉꽉 인트로 0:07 내가 모른척해볼게 얍! 3:23 뱀 나오겠다 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5I8ye_BIzA8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5I8ye_BIzA8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5I8ye_BIzA8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "무지막지한 막무家네",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-07-03T10:00:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "0nwPUv73L56rQzBE1VEWAdrM1go",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lhXt356dCw4"
+            },
+            "snippet": {
+                "publishedAt": "2024-07-04T13:43:01Z",
+                "channelId": "UCsU-I-vHLiaMfV_ceaYz5rQ",
+                "title": "고양이가 왜 이렇게 뚱뚱해?…계단 못 오르자 &#39;강제 다이어트&#39; #글로벌픽 / JTBC 사건반장",
+                "description": "캐나다입니다. 고양이가 계단 아래서 주인을 올려다보고 있습니다. 위로 올라오라는 부름에도 귀찮은 듯 꾸물거리고 있는데요. 하지만 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lhXt356dCw4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lhXt356dCw4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lhXt356dCw4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "JTBC News",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-07-04T13:43:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "19_BBkxRcJ6CRM7SayXoLfrjzT8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "E_BnZ8YJsYE"
+            },
+            "snippet": {
+                "publishedAt": "2024-06-28T08:00:08Z",
+                "channelId": "UCRWxH4fGhuNsh0klWnDbt0w",
+                "title": "삭발식 하는 고양이 #shorts #shortvideo #고양이 #시트콤",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/E_BnZ8YJsYE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/E_BnZ8YJsYE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/E_BnZ8YJsYE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "언더월드 UNDER WORLD",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-06-28T08:00:08Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "6lQnQCebsa80B-TN4C60wwHoWQE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4fqrEeNY0iY"
+            },
+            "snippet": {
+                "publishedAt": "2024-06-15T08:00:02Z",
+                "channelId": "UCRWxH4fGhuNsh0klWnDbt0w",
+                "title": "돈 관리 철저한 고양이 #shorts #shortvideo #고양이 #시트콤",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4fqrEeNY0iY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4fqrEeNY0iY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4fqrEeNY0iY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "언더월드 UNDER WORLD",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-06-15T08:00:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "-FtAZqLhlPn4RcuzOb-fpNT24zY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "tonqb3baA5c"
+            },
+            "snippet": {
+                "publishedAt": "2024-07-03T08:59:07Z",
+                "channelId": "UCQcYgOAfbpkd7CAFfwPF0vA",
+                "title": "태풍급 장마와 폭우 속에서도 마당고양이들은 서로에게 의지하며 잘 견디고 있습니다.",
+                "description": "배은망덕 하우스 식구들을 모집합니다 ☆ https://www.youtube.com/channel/UCQcYgOAfbpkd7CAFfwPF0vA/join 이번 장마는 꽤 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tonqb3baA5c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tonqb3baA5c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tonqb3baA5c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "배은망덕고양이들",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-07-03T08:59:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "wyyKbjADvfpxzajj52IUa7v7wyo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "O_OkhQ9bl_E"
+            },
+            "snippet": {
+                "publishedAt": "2024-07-03T07:01:09Z",
+                "channelId": "UC7lP46vHWIdZbT0X7Ud0AAA",
+                "title": "아픈 아기 고양이를 살리기 위해 먹일 수밖에 없었어요 (feat.자연산 벵에돔)",
+                "description": "고양이 #마일로 #베베집사 베베집사 굿즈 : https://naver.me/59iWF8Pl 2024 털복숭이 달력: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/O_OkhQ9bl_E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/O_OkhQ9bl_E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/O_OkhQ9bl_E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "털복숭이들과 베베집사 Bebe8Cats",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-07-03T07:01:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "NlW3joG6WNDUw1fOR-03vb4wS6w",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "G4uMy_hfYoY"
+            },
+            "snippet": {
+                "publishedAt": "2024-04-15T05:40:44Z",
+                "channelId": "UCwYkh7TzRq8zTP_Zf3NXNIA",
+                "title": "고양이를 입양한 스피드",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/G4uMy_hfYoY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/G4uMy_hfYoY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/G4uMy_hfYoY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "숏스피디",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-04-15T05:40:44Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "TUYsKflN40fKNeJ3P2Qimj911tg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "HMXn_nscVxg"
+            },
+            "snippet": {
+                "publishedAt": "2024-07-03T09:45:02Z",
+                "channelId": "UCETBLykCDpfP6L0awBd7Vwg",
+                "title": "우리집 고양이들 미친 고양이",
+                "description": "하나같이 이렇게 다 제정신 아니기도 쉽지 않은데 나만 이렇게 정상이라 힘든 삶 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HMXn_nscVxg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HMXn_nscVxg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HMXn_nscVxg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Arirang은 고양이들 내가 주인",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-07-03T09:45:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "W0dCpU2NCbZZMk4TsOAyHQcAQHo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "WpD-qg0k3Go"
+            },
+            "snippet": {
+                "publishedAt": "2024-06-23T06:11:46Z",
+                "channelId": "UCCAnXz6JLARzAGtP5UaTCbw",
+                "title": "고양이 밈의 주인공들을 찾아봄",
+                "description": "한국 #쇼츠 #그래서누군데 #꿀잼 #지식 #정보 #이슈.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WpD-qg0k3Go/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WpD-qg0k3Go/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WpD-qg0k3Go/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "그래서 누군데?",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-06-23T06:11:46Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "8txUCG268rfYIVygNY8f42yOu-k",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Y2jFUZx2pGE"
+            },
+            "snippet": {
+                "publishedAt": "2024-06-26T04:40:37Z",
+                "channelId": "UCg6JXIkKXGl_3DE3TN-zo7w",
+                "title": "고양이만 쳐다보면 됩니다",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Y2jFUZx2pGE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Y2jFUZx2pGE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Y2jFUZx2pGE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "예삐♡보름",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-06-26T04:40:37Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "u6Q1WsIMof8BEJkMlZtfii-5Nqw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "uJLbFJ_-3OU"
+            },
+            "snippet": {
+                "publishedAt": "2024-07-02T13:30:07Z",
+                "channelId": "UCuU65KInHrp9fUC4mS4ad5g",
+                "title": "임성근 카톡에 숨겨진 김건희의 충격적 비밀",
+                "description": "채널에 가입하여 혜택을 누려보세요. https://www.youtube.com/channel/UCuU65KInHrp9fUC4mS4ad5g/join.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uJLbFJ_-3OU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uJLbFJ_-3OU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uJLbFJ_-3OU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "고양이뉴스",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-07-02T13:30:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "jnba2CZgc5LLH1p46Zr3xH7-8Bc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "P4pGAIbfCUI"
+            },
+            "snippet": {
+                "publishedAt": "2024-07-02T08:35:12Z",
+                "channelId": "UC-603KNB_fvzHP9MpBqSKWg",
+                "title": "육아 했던 아기 고양이의 하악질을 처음 본 진돗개 반응",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/P4pGAIbfCUI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/P4pGAIbfCUI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/P4pGAIbfCUI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "진똑개 풍이",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-07-02T08:35:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "bL7OPcFqwkyjkii6pOEJFpXOfZ0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "z4CsIRi0aQM"
+            },
+            "snippet": {
+                "publishedAt": "2024-07-02T12:30:44Z",
+                "channelId": "UC5go3M18NfuBdTz2OI8UnFw",
+                "title": "고양이에 미친 여자 ㄷㄷ",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/z4CsIRi0aQM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/z4CsIRi0aQM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/z4CsIRi0aQM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "짤감자",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-07-02T12:30:44Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "cfPArNiDTdBs42ejidXGSrGb2M8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "TyG4Z_tFq9U"
+            },
+            "snippet": {
+                "publishedAt": "2024-07-02T11:00:25Z",
+                "channelId": "UCUw1C3Jn6RTS9pR899ufATQ",
+                "title": "고양이 키우면 여름에 특히 좋은 이유",
+                "description": "오늘도 귀여운 코비와 베리. 고양이가 있어 든든한 여름이에요 #고양이 #개냥이 #귀여운고양이 고양이 이모티콘 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TyG4Z_tFq9U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TyG4Z_tFq9U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TyG4Z_tFq9U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "그루밍데이 고양이cat vlog",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-07-02T11:00:25Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "knGIlFpTxwwvKGsW8DlBvf2BV5c",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "cf6c2QUrajA"
+            },
+            "snippet": {
+                "publishedAt": "2024-01-30T03:05:00Z",
+                "channelId": "UCvDar-VUmgP9uvTJu9LUP6Q",
+                "title": "심각하게 귀여운 지상 최강의 맹수 아기 호랑이",
+                "description": "동물쇼츠#동물영상#동물짤#동물밈#shorts#쇼츠#고양이.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cf6c2QUrajA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cf6c2QUrajA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cf6c2QUrajA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "숏크라테스",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-01-30T03:05:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "K1jhf82km6h10vqfrYLhcBxuToQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "hnmw5NhVYqc"
+            },
+            "snippet": {
+                "publishedAt": "2024-06-29T03:00:25Z",
+                "channelId": "UC7mJ6eYBVVTwk-hM6SUox1Q",
+                "title": "역변한 반려동물을 인증하는 사람들ㅋㅋ",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hnmw5NhVYqc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hnmw5NhVYqc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hnmw5NhVYqc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "구구절절",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-06-29T03:00:25Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "dKUceeZZfuJoALW1LP01XutdwAI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rA8CkSDk1CA"
+            },
+            "snippet": {
+                "publishedAt": "2022-10-16T16:38:50Z",
+                "channelId": "UCJtYTtTSSD430X3VygOqxhg",
+                "title": "가나다랴!므아 그만해!! 내가 왜..",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rA8CkSDk1CA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rA8CkSDk1CA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rA8CkSDk1CA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "김호섭 Hoseob",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-10-16T16:38:50Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Ys5FmgPtml08WECER9XdIa_BW_g",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5QVLEqaqBrM"
+            },
+            "snippet": {
+                "publishedAt": "2024-02-28T04:05:00Z",
+                "channelId": "UCxN2RuP9U_x6OZEoRrX0opA",
+                "title": "고양이 때문에 가끔 전쟁을 치룬다는 수의사.. 그런데..",
+                "description": "kitten #straycats #cat.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5QVLEqaqBrM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5QVLEqaqBrM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5QVLEqaqBrM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "노멀캣",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-02-28T04:05:00Z"
             }
         }
     ]

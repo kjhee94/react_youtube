@@ -1,6 +1,6 @@
 {
     "kind": "youtube#channelListResponse",
-    "etag": "5QNQ8YgmSP04J8wQBTC8b0mjIIY",
+    "etag": "p76NG4RNuXH6LtbXZ7bpaQm8Ag8",
     "pageInfo": {
         "totalResults": 1,
         "resultsPerPage": 5
@@ -8,35 +8,41 @@
     "items": [
         {
             "kind": "youtube#channel",
-            "etag": "OEDDiJ6uKdnch3dArr2fpng9-rs",
-            "id": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+            "etag": "bBUAPdpvUy4Wau-a_NPX-9w43xA",
+            "id": "UCsRIHt5FkbGc6cQtCxt-ufA",
             "snippet": {
-                "title": "Google for Developers",
-                "description": "Subscribe to join a community of creative developers and learn the latest in Google technology — from AI and cloud, to mobile and web.\n\nExplore more at developers.google.com\n\n",
-                "customUrl": "@googledevelopers",
-                "publishedAt": "2007-08-23T00:34:43Z",
+                "title": "tvN D ENT",
+                "description": "두근두근 꿀잼 확률 100%\n매일매일 예상치 못한 즐거움이 가득한 채널 tvN D ENT\n\nwe’re :DIGGLE family\n",
+                "customUrl": "@tvndent",
+                "publishedAt": "2013-06-13T00:00:09Z",
                 "thumbnails": {
                     "default": {
-                        "url": "https://yt3.ggpht.com/PrZwRLLSaiXr5t-GRUhUFch2Qlol1G_voyuo-jJ4y-mqcVza7o7j_24yGRiydUP7UsQiKwo7=s88-c-k-c0x00ffffff-no-rj",
+                        "url": "https://yt3.ggpht.com/igVVRLVObvwwUVo4U6Zb9bJbwQB2BT27xvxzWWaytwp6Dpmhy8cX6io03PRZdXUF53v0rQUeJA=s88-c-k-c0x00ffffff-no-rj",
                         "width": 88,
                         "height": 88
                     },
                     "medium": {
-                        "url": "https://yt3.ggpht.com/PrZwRLLSaiXr5t-GRUhUFch2Qlol1G_voyuo-jJ4y-mqcVza7o7j_24yGRiydUP7UsQiKwo7=s240-c-k-c0x00ffffff-no-rj",
+                        "url": "https://yt3.ggpht.com/igVVRLVObvwwUVo4U6Zb9bJbwQB2BT27xvxzWWaytwp6Dpmhy8cX6io03PRZdXUF53v0rQUeJA=s240-c-k-c0x00ffffff-no-rj",
                         "width": 240,
                         "height": 240
                     },
                     "high": {
-                        "url": "https://yt3.ggpht.com/PrZwRLLSaiXr5t-GRUhUFch2Qlol1G_voyuo-jJ4y-mqcVza7o7j_24yGRiydUP7UsQiKwo7=s800-c-k-c0x00ffffff-no-rj",
+                        "url": "https://yt3.ggpht.com/igVVRLVObvwwUVo4U6Zb9bJbwQB2BT27xvxzWWaytwp6Dpmhy8cX6io03PRZdXUF53v0rQUeJA=s800-c-k-c0x00ffffff-no-rj",
                         "width": 800,
                         "height": 800
                     }
                 },
                 "localized": {
-                    "title": "Google for Developers",
-                    "description": "Subscribe to join a community of creative developers and learn the latest in Google technology — from AI and cloud, to mobile and web.\n\nExplore more at developers.google.com\n\n"
+                    "title": "tvN D ENT",
+                    "description": "두근두근 꿀잼 확률 100%\n매일매일 예상치 못한 즐거움이 가득한 채널 tvN D ENT\n\nwe’re :DIGGLE family\n"
                 },
-                "country": "US"
+                "country": "KR"
+            },
+            "statistics": {
+                "viewCount": "11377139298",
+                "subscriberCount": "4880000",
+                "hiddenSubscriberCount": false,
+                "videoCount": "40157"
             }
         }
     ]

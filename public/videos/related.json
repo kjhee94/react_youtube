@@ -1,6 +1,6 @@
 {
     "kind": "youtube#searchListResponse",
-    "etag": "9SKwwOmrTzr0ibmllNJ7X5luviM",
+    "etag": "aIvbPRKYK6il-4MBXswLzQ_17uk",
     "nextPageToken": "CBkQAA",
     "regionCode": "KR",
     "pageInfo": {
@@ -10,852 +10,852 @@
     "items": [
         {
             "kind": "youtube#searchResult",
-            "etag": "y2V7ZaxrOdDNY7LMQ1faLqXwcAA",
+            "etag": "4-4zMi_uOMRn0Mvlo1b7JiCUrIA",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "_TEUl01vMxA"
+                "videoId": "spx7GBOmFQY"
             },
             "snippet": {
-                "publishedAt": "2023-02-03T11:00:34Z",
-                "channelId": "UCtctOXlHYeQyuXSgW861nMA",
-                "title": "세계최초‼️ 훌라후프안에 13명😱 Hula-hoop Challenge",
-                "description": "온라인으로 텀블링 배우기 https://101.gg/team1llusion-class HDEX 10% 할인쿠폰: 1llusion 처음부터 잘 하는 사람은 없습니다.",
+                "publishedAt": "2024-07-05T10:00:55Z",
+                "channelId": "UCsRIHt5FkbGc6cQtCxt-ufA",
+                "title": "[#밥이나한잔해] 동작구 다 꿰뚫고 있는 이시언부터👀 김희선 전 남편(?) 정상훈까지🔥 한강 노들섬에 모인 동작구 밥친구",
+                "description": "\"집 근처야, 일단 나와!\" 급만난 찐친과의 '밥 한잔' 타임     ⚡동네 친구 번개 프로젝트⚡ tvN 〈밥이나 한잔해〉 매주 [목] 저녁 8시 40 ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/_TEUl01vMxA/default.jpg",
+                        "url": "https://i.ytimg.com/vi/spx7GBOmFQY/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/_TEUl01vMxA/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/spx7GBOmFQY/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/_TEUl01vMxA/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/spx7GBOmFQY/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "팀일루션 노성율 - TEAM1LLUSION",
+                "channelTitle": "tvN D ENT",
                 "liveBroadcastContent": "none",
-                "publishTime": "2023-02-03T11:00:34Z"
+                "publishTime": "2024-07-05T10:00:55Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "Ee2PqkqHJHoZC2OSQXhkmsOJHy8",
+            "etag": "Ju88J7zLV1rb3eCc445brCQ2XKA",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "iBFpng43Jyk"
+                "videoId": "EZWcQWX6-nQ"
             },
             "snippet": {
-                "publishedAt": "2022-01-02T18:23:02Z",
-                "channelId": "UCVVMMNVUwHbxljqi-xZ-jig",
-                "title": "She’s FLYING! 😱😂 (Fireboy DML Peru - Scan filter challenge) | Triple Charm #shorts",
-                "description": "",
+                "publishedAt": "2024-07-05T10:00:19Z",
+                "channelId": "UCsRIHt5FkbGc6cQtCxt-ufA",
+                "title": "[#밥이나한잔해] 이 얼굴이 어떻게 36세..? 김범은 가만히 있어도 폭풍 플러팅을 해✨ 얼굴부터 예의 바른 청년 김범 유죄 모음",
+                "description": "\"집 근처야, 일단 나와!\" 급만난 찐친과의 '밥 한잔' 타임     ⚡동네 친구 번개 프로젝트⚡ tvN 〈밥이나 한잔해〉 매주 [목] 저녁 8시 40 ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/iBFpng43Jyk/default.jpg",
+                        "url": "https://i.ytimg.com/vi/EZWcQWX6-nQ/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/iBFpng43Jyk/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/EZWcQWX6-nQ/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/iBFpng43Jyk/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/EZWcQWX6-nQ/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Triple Charm",
+                "channelTitle": "tvN D ENT",
                 "liveBroadcastContent": "none",
-                "publishTime": "2022-01-02T18:23:02Z"
+                "publishTime": "2024-07-05T10:00:19Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "UHqn9e4gZ9VJYV2T4t5RoUmyzMU",
+            "etag": "ypeTNurxF1hQgQOWkSNEXXiQpHw",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "lMFNlWZlFz8"
+                "videoId": "5QOtFB__8lQ"
             },
             "snippet": {
-                "publishedAt": "2022-12-06T13:30:10Z",
-                "channelId": "UCiVs2pnGW5mLIc1jS2nxhjg",
-                "title": "Wednesday Slide Tutorial",
-                "description": "김프로 #유백합 #KIMPRO 김프로 KIMPRO SNS   틱톡 : https://www.tiktok.com/@kimpro828 인스타그램 ...",
+                "publishedAt": "2024-07-05T09:30:02Z",
+                "channelId": "UCsRIHt5FkbGc6cQtCxt-ufA",
+                "title": "[#지금이순간] 20대 새파란 후배가 40대 대선배에게 외친 한 마디, “한 번만 더”🔥 근거 있는 자신감 박진영과 그를 믿고 따라준 인순이의 감동 가득 우정✨",
+                "description": "대한민국 올타임 레전드 가왕의 등장   인생이 담긴 인생곡   전설을 이어가는 커버   tvN STORY 〈지금 이 순간〉   매주 (목) 저녁 ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/lMFNlWZlFz8/default.jpg",
+                        "url": "https://i.ytimg.com/vi/5QOtFB__8lQ/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/lMFNlWZlFz8/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/5QOtFB__8lQ/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/lMFNlWZlFz8/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/5QOtFB__8lQ/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "김프로KIMPRO",
+                "channelTitle": "tvN D ENT",
                 "liveBroadcastContent": "none",
-                "publishTime": "2022-12-06T13:30:10Z"
+                "publishTime": "2024-07-05T09:30:02Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "jkLy3g-19cdqCz4UKMVTavZ86mo",
+            "etag": "oarnxLfv8zEXgI19PT2PNVmMW64",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "Y7WZTEz3UAs"
+                "videoId": "2mNhfBtrB2M"
             },
             "snippet": {
-                "publishedAt": "2015-05-06T15:01:37Z",
-                "channelId": "UCTxBdQ7W4OmNLJCJd-gh8-Q",
-                "title": "제임스 브라운",
-                "description": "아카데미 시상식에서 네 개 부문 후보에 오른 '헬프'의 후속작. 테이트 타일러 감독, 42의 채드윅 보스만 주연. 소울의 아버지 제임스 ...",
+                "publishedAt": "2024-07-05T09:30:02Z",
+                "channelId": "UCsRIHt5FkbGc6cQtCxt-ufA",
+                "title": "[#지금이순간] 립싱크가 뭐죠? 먹는 건가요🙄? 놀라운 실력으로 전 국민을 깜짝 놀라게 했던 그때 그 시절 걸그룹 희자매🔥",
+                "description": "대한민국 올타임 레전드 가왕의 등장   인생이 담긴 인생곡   전설을 이어가는 커버   tvN STORY 〈지금 이 순간〉   매주 (목) 저녁 ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/Y7WZTEz3UAs/default.jpg",
+                        "url": "https://i.ytimg.com/vi/2mNhfBtrB2M/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/Y7WZTEz3UAs/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/2mNhfBtrB2M/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/Y7WZTEz3UAs/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/2mNhfBtrB2M/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "YouTube Movies",
+                "channelTitle": "tvN D ENT",
                 "liveBroadcastContent": "none",
-                "publishTime": "2015-05-06T15:01:37Z"
+                "publishTime": "2024-07-05T09:30:02Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "jjXzF1Jg2WemyYzkGofUvFWFc-k",
+            "etag": "yV8_OxsP6JW3JkAUqOT3is8fhBA",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "Coi7rtSuO90"
+                "videoId": "GIayL4iB2y8"
             },
             "snippet": {
-                "publishedAt": "2012-08-29T11:49:16Z",
-                "channelId": "UCfqq0msXoC78evtF6X0AT4w",
-                "title": "투어리스트",
-                "description": "프랭크(조니 뎁)는 휴가 차 이태리, 베니스를 여행하는 평범한 미국인이다. 프랭크는 우연히 숨막히도록 아름답지만 비밀을 감추고 ...",
+                "publishedAt": "2024-07-05T09:30:04Z",
+                "channelId": "UCsRIHt5FkbGc6cQtCxt-ufA",
+                "title": "[#지금이순간] 모두를 펑펑 울린 인순이 노래😢 데뷔 47년 차의 깊이 있는 라이브🎤",
+                "description": "대한민국 올타임 레전드 가왕의 등장   인생이 담긴 인생곡   전설을 이어가는 커버   tvN STORY 〈지금 이 순간〉   매주 (목) 저녁 ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/Coi7rtSuO90/default.jpg",
+                        "url": "https://i.ytimg.com/vi/GIayL4iB2y8/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/Coi7rtSuO90/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/GIayL4iB2y8/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/Coi7rtSuO90/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/GIayL4iB2y8/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "YouTube Movies",
+                "channelTitle": "tvN D ENT",
                 "liveBroadcastContent": "none",
-                "publishTime": "2012-08-29T11:49:16Z"
+                "publishTime": "2024-07-05T09:30:04Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "dQs9UN891zt3s7G8VhbzJxAj-ik",
+            "etag": "L-pMBvqFhnZw1YJJihj9I8sXEkM",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "FvyB-jKPsgE"
+                "videoId": "HZz5cMoEPlk"
             },
             "snippet": {
-                "publishedAt": "2024-07-01T03:01:13Z",
-                "channelId": "UCWwgaK7x0_FR1goeSRazfsQ",
-                "title": "Semi-Century | Samsung",
-                "description": "Through relentless challenges and numerous innovations, Samsung Semiconductor has finally reached 50 years. Over the next ...",
+                "publishedAt": "2024-07-05T07:30:05Z",
+                "channelId": "UCsRIHt5FkbGc6cQtCxt-ufA",
+                "title": "[#언니네산지직송] 염정아가 직접 자연산 웃음 배송해 드립니다🚚💨 언니네의 눈부신 여름 이야기와 특별한 손님까지❤",
+                "description": "얘들아~ 밥 먹자  ” ↳ 언니… 이거 4인분 맞아요  ? 요리천재 염정아의 싱싱한 어촌 밥상 레시피 대공개! 〈언니네 산지직송〉 7/18 ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/FvyB-jKPsgE/default.jpg",
+                        "url": "https://i.ytimg.com/vi/HZz5cMoEPlk/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/FvyB-jKPsgE/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/HZz5cMoEPlk/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/FvyB-jKPsgE/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/HZz5cMoEPlk/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Samsung",
+                "channelTitle": "tvN D ENT",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-07-01T03:01:13Z"
+                "publishTime": "2024-07-05T07:30:05Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "1dREQMTidDNg7P6vY33RFYTdBAI",
+            "etag": "6X_bgkj7wtYdkbHXbxSt4mopi5Q",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "WhnDDkvS0sc"
+                "videoId": "u7jB8lO2xK0"
             },
             "snippet": {
-                "publishedAt": "2024-07-01T17:11:02Z",
-                "channelId": "UC8shfFhkDOoIBq1i6l0nQcA",
-                "title": "A new summer tradition 😋😍 #breakfast #summeractivities #summertime #family #dayinmylife",
-                "description": "",
+                "publishedAt": "2024-07-05T07:00:35Z",
+                "channelId": "UCsRIHt5FkbGc6cQtCxt-ufA",
+                "title": "[#밥이나한잔해] 세븐틴 찐팬 희선 언니💎 밥한잔 공식 캐럿을 위한 부승관의 〈7시에 들어줘〉 최초 생라이브✨",
+                "description": "\"집 근처야, 일단 나와!\" 급만난 찐친과의 '밥 한잔' 타임     ⚡동네 친구 번개 프로젝트⚡ tvN 〈밥이나 한잔해〉 매주 [목] 저녁 8시 40 ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/WhnDDkvS0sc/default.jpg",
+                        "url": "https://i.ytimg.com/vi/u7jB8lO2xK0/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/WhnDDkvS0sc/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/u7jB8lO2xK0/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/WhnDDkvS0sc/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/u7jB8lO2xK0/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "The Fluellen Fam",
+                "channelTitle": "tvN D ENT",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-07-01T17:11:02Z"
+                "publishTime": "2024-07-05T07:00:35Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "H70VV44zepHGmACkUuOkaBy8JSk",
+            "etag": "3u3_T_JR7NeceTB7H5I0U30X_wI",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "jCSADOjvgz8"
+                "videoId": "DpkgEHwroKs"
             },
             "snippet": {
-                "publishedAt": "2014-07-19T08:01:26Z",
-                "channelId": "UC2lm36exeRNco0HcguJvGVQ",
-                "title": "레볼루셔너리 로드",
-                "description": "아카데미상®에 노미네이트된 레오나르도 디카프리오와 아카데미상® 수상자 케이트 윈슬렛, 두 강력한 스타가 리처드 예이츠의 동명 ...",
+                "publishedAt": "2024-07-05T06:30:05Z",
+                "channelId": "UCsRIHt5FkbGc6cQtCxt-ufA",
+                "title": "[#놀라운토요일] 듣지마자 춤 자동 출력 SSAP 가능한 안무 장인 키어로의 퍼포먼스 모아보기🕺 5세대 아이돌의 따끈한 신곡? 문제없지~🎶",
+                "description": "놀라운토요일 #놀토 #키 #태연 세대 초월 음악 예능 〈놀라운 토요일〉 매주 [토] 저녁 7시 30분 tvN we're :DIGGLE family.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/jCSADOjvgz8/default.jpg",
+                        "url": "https://i.ytimg.com/vi/DpkgEHwroKs/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/jCSADOjvgz8/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/DpkgEHwroKs/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/jCSADOjvgz8/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/DpkgEHwroKs/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "YouTube Movies",
+                "channelTitle": "tvN D ENT",
                 "liveBroadcastContent": "none",
-                "publishTime": "2014-07-19T08:01:26Z"
+                "publishTime": "2024-07-05T06:30:05Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "GqgS4Bh9SLJQzKwXNIXfJo2M-Yk",
+            "etag": "eFBi4Xi1ARlUwSbo0VFqRJnLnkc",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "U0uOzFMJ1TY"
+                "videoId": "P1QixEUvr00"
             },
             "snippet": {
-                "publishedAt": "2016-02-29T08:25:02Z",
-                "channelId": "UCcBst-Jf59hUKH_SOCqC2iA",
-                "title": "브루클린의 멋진 주말",
-                "description": "40년 묵은 이스트 빌리지 아파트가 팔리기를 기대하는 뉴욕 노부부의 평소와 다른 주말 이야기. '루스'는 은퇴한 교사이고, '알렉스'는 ...",
+                "publishedAt": "2024-07-05T05:00:11Z",
+                "channelId": "UCsRIHt5FkbGc6cQtCxt-ufA",
+                "title": "[#한도초과] 예능신이 어쩜 이런 달란트를 주셨을까🤭 의도하지는 않았지만 계속 웃긴 신기루 모먼트 | #티전드",
+                "description": "티전드 #한도초과 #tvN we're :DIGGLE family.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/U0uOzFMJ1TY/default.jpg",
+                        "url": "https://i.ytimg.com/vi/P1QixEUvr00/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/U0uOzFMJ1TY/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/P1QixEUvr00/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/U0uOzFMJ1TY/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/P1QixEUvr00/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "YouTube Movies",
+                "channelTitle": "tvN D ENT",
                 "liveBroadcastContent": "none",
-                "publishTime": "2016-02-29T08:25:02Z"
+                "publishTime": "2024-07-05T05:00:11Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "V3bsx0jdWeeepLPevppAbtM5puo",
+            "etag": "WmTI6MB35vjn96W_6rXV4x9tFF0",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "Q1giqvTwZqs"
+                "videoId": "Z-2_bjIS03o"
             },
             "snippet": {
-                "publishedAt": "2022-01-01T13:00:19Z",
-                "channelId": "UC4rlAVgAK0SGk-yTfe48Qpw",
-                "title": "+50 Riddles With Twists For Natural Born Investigators 🔍",
-                "description": "Easy or hard: each riddle captures our attention and makes us restless until we find the answer. But no worries: here each of the ...",
+                "publishedAt": "2024-07-05T04:00:20Z",
+                "channelId": "UCsRIHt5FkbGc6cQtCxt-ufA",
+                "title": "[#우아한인생] 눈 뜨자마자 운세 체크부터 하는 프리지아✔️ 역술인이 하라는 대로 다 한다?! 믿기 힘들 정도의 샤머니즘 현장",
+                "description": "우아한인생 #전현무 #미미 #규현 #프리지아 we're :DIGGLE family.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/Q1giqvTwZqs/default.jpg",
+                        "url": "https://i.ytimg.com/vi/Z-2_bjIS03o/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/Q1giqvTwZqs/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Z-2_bjIS03o/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/Q1giqvTwZqs/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Z-2_bjIS03o/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "BRIGHT SIDE",
+                "channelTitle": "tvN D ENT",
                 "liveBroadcastContent": "none",
-                "publishTime": "2022-01-01T13:00:19Z"
+                "publishTime": "2024-07-05T04:00:20Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "sZhNiGq4FL5JvSCTauC8PDr4TDk",
+            "etag": "AUJFjtkKRTKeKSkTahMA0dzqX5U",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "odHc-pEdKvA"
+                "videoId": "xaXtAJn9XPg"
             },
             "snippet": {
-                "publishedAt": "2022-01-27T08:18:50Z",
-                "channelId": "UCttFk8-Nysnyw59aNlWOWzw",
-                "title": "Rich or Broke? Let’s Test Your Logical Skills",
-                "description": "Are you attentive and can spot the tiniest detail that might be the clue to answer? These riddles and puzzles with answers will ...",
+                "publishedAt": "2024-07-05T04:00:46Z",
+                "channelId": "UCsRIHt5FkbGc6cQtCxt-ufA",
+                "title": "[#우아한인생] 성경 모임에서 푸는 매운맛 현실 출산 썰🔥 유경험자 선배 조혜련 X 정이랑의 출산 꿀팁🤣",
+                "description": "우아한인생 #황보라 #조혜련 #정이랑 we're :DIGGLE family.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/odHc-pEdKvA/default.jpg",
+                        "url": "https://i.ytimg.com/vi/xaXtAJn9XPg/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/odHc-pEdKvA/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/xaXtAJn9XPg/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/odHc-pEdKvA/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/xaXtAJn9XPg/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "7-Second Riddles",
+                "channelTitle": "tvN D ENT",
                 "liveBroadcastContent": "none",
-                "publishTime": "2022-01-27T08:18:50Z"
+                "publishTime": "2024-07-05T04:00:46Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "dHP22rObW4_Ey_4LNxaZeTks8rU",
+            "etag": "e_5F2E0__FhZG9hd-ruoYDLsZHg",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "yZ5BS6qiiaQ"
+                "videoId": "Ic6GPVhcgzQ"
             },
             "snippet": {
-                "publishedAt": "2022-01-25T08:56:28Z",
-                "channelId": "UCttFk8-Nysnyw59aNlWOWzw",
-                "title": "I Bet You Won&#39;t Solve These 13 Riddles  Prove Me Wrong",
-                "description": "You're all smart and bright, but let's find out who's the smartest of you all. Solving riddles helps you boost your brain power and ...",
+                "publishedAt": "2024-07-05T02:00:07Z",
+                "channelId": "UCsRIHt5FkbGc6cQtCxt-ufA",
+                "title": "[#여권들고등짝스매싱] 브라질 부모님이 한국 딸기 처음 먹고 보인 반응🍓 설탕 필요 없는 당도 최강 K-딸기에 깜짝 놀라다👍",
+                "description": "여권들고등짝스매싱 #조혜련 #김성주 #딘딘 글로벌 부모들의 잔소리 랩소디 〈여권들고 등짝 스매싱〉 매주 [화] 저녁 8시 20분 tvN ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/yZ5BS6qiiaQ/default.jpg",
+                        "url": "https://i.ytimg.com/vi/Ic6GPVhcgzQ/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/yZ5BS6qiiaQ/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Ic6GPVhcgzQ/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/yZ5BS6qiiaQ/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/Ic6GPVhcgzQ/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "7-Second Riddles",
+                "channelTitle": "tvN D ENT",
                 "liveBroadcastContent": "none",
-                "publishTime": "2022-01-25T08:56:28Z"
+                "publishTime": "2024-07-05T02:00:07Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "hryJfXHftpflnDKztYN7hYqZw9E",
+            "etag": "3otbKAf6GIQm0fQqdfduOI_lBh8",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "ajcxSWpKwvE"
+                "videoId": "T8Kl6VAfJt0"
             },
             "snippet": {
-                "publishedAt": "2024-07-01T13:30:01Z",
-                "channelId": "UCuFPaemAaMR8R5cHzjy23dQ",
-                "title": "🌺「君は僕のもの」MV現場 ラスサビ風景 🌺#SnowMan#君は僕のもの #スノは君のもの#熱い想い夏い想い",
-                "description": "STARTO ENTERTAINMENT Official Site https://starto.jp/s/p/artist/43?ima=3650 ◇Snow Man HP ...",
+                "publishedAt": "2024-07-05T02:00:12Z",
+                "channelId": "UCsRIHt5FkbGc6cQtCxt-ufA",
+                "title": "[#여권들고등짝스매싱] 브라질에 있는 부모님 한국 마트에 만난 아들 반응😉 아들 몰래 하루 일찍 도착한 부모님의 깜작 등장 대작전🎉",
+                "description": "여권들고등짝스매싱 #조혜련 #김성주 #딘딘 글로벌 부모들의 잔소리 랩소디 〈여권들고 등짝 스매싱〉 매주 [화] 저녁 8시 20분 tvN ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/ajcxSWpKwvE/default.jpg",
+                        "url": "https://i.ytimg.com/vi/T8Kl6VAfJt0/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/ajcxSWpKwvE/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/T8Kl6VAfJt0/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/ajcxSWpKwvE/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/T8Kl6VAfJt0/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Snow Man",
+                "channelTitle": "tvN D ENT",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-07-01T13:30:01Z"
+                "publishTime": "2024-07-05T02:00:12Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "RyKN5kxFtrtY4ngbrFRk7Ps0HcU",
+            "etag": "Aif6T5fNnUJDTt5MascEQhKTE-w",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "JUgPCZNquDM"
+                "videoId": "rUFk_ARI6kM"
             },
             "snippet": {
-                "publishedAt": "2016-01-06T15:00:15Z",
-                "channelId": "UC8L__RuNawnnO4ynFBg5nBA",
-                "title": "팬 (자막판)",
-                "description": "조 라이트가 연출한 영화 \"팬\"은 소설가 J.M. 배리 의 원작을 기반으로 하며, 영원하 사랑받는 캐릭터의 신나는 모험의 세계를 화려한 ...",
+                "publishedAt": "2024-07-05T00:00:33Z",
+                "channelId": "UCsRIHt5FkbGc6cQtCxt-ufA",
+                "title": "[#온앤오프] 이 형 왜 저래↗↗ 짐종국 형이랑 운동하기 (feat. 김종국한테 PT 받다 토하는(?) 시경이와 하하😂) | #티전드",
+                "description": "티전드 #온앤오프 #tvN we're :DIGGLE family.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/JUgPCZNquDM/default.jpg",
+                        "url": "https://i.ytimg.com/vi/rUFk_ARI6kM/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/JUgPCZNquDM/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/rUFk_ARI6kM/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/JUgPCZNquDM/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/rUFk_ARI6kM/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "YouTube Movies",
+                "channelTitle": "tvN D ENT",
                 "liveBroadcastContent": "none",
-                "publishTime": "2016-01-06T15:00:15Z"
+                "publishTime": "2024-07-05T00:00:33Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "PQwYQFjkYfF7_ftcr8jPyn7QtEk",
+            "etag": "fMwzs7NXoO-lnebGT_Voch34fDM",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "ZoNKFC8P9hI"
+                "videoId": "3OSvrnoIc5c"
             },
             "snippet": {
-                "publishedAt": "2024-07-01T20:38:58Z",
-                "channelId": "UCQANb2YPwAtK-IQJrLaaUFw",
-                "title": "🚨 Supreme Court ruling suddenly endangers EVERY Trump prosecution",
-                "description": "The Legal Breakdown episode 328: @GlennKirschner2 discusses the bombshell Supreme Court ruling on presidential immunity.",
+                "publishedAt": "2024-07-04T11:30:01Z",
+                "channelId": "UCsRIHt5FkbGc6cQtCxt-ufA",
+                "title": "[#프리한19] 올여름 여행 어디 가지? 아직 핫플이 안 된 국내/해외 여행 신상 맛집! 영상 시청하고 손해 보는 일 없으시길🤭",
+                "description": "프리한19 #전현무 #오상진 #한석준 we're :DIGGLE family.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/ZoNKFC8P9hI/default.jpg",
+                        "url": "https://i.ytimg.com/vi/3OSvrnoIc5c/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/ZoNKFC8P9hI/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/3OSvrnoIc5c/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/ZoNKFC8P9hI/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/3OSvrnoIc5c/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Brian Tyler Cohen",
+                "channelTitle": "tvN D ENT",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-07-01T20:38:58Z"
+                "publishTime": "2024-07-04T11:30:01Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "NtsZTlpjKd-STcXcZAxXZsUx4dM",
+            "etag": "Yy8C5Hh9xA6KB_YEuo2hw5mvloU",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "Wdk0Qhlz450"
+                "videoId": "TDj2yjlnqqU"
             },
             "snippet": {
-                "publishedAt": "2024-06-30T11:00:33Z",
-                "channelId": "UCychocGDj9_U2SydLizlfug",
-                "title": "치토스로 체감되는 요즘 물가",
-                "description": "shorts #과자 #치토스 #먹방 #물가 #snacks #cheetos #past #future #funny #comedy #memes instagram: yeongmin0917 business ...",
+                "publishedAt": "2024-07-04T10:10:00Z",
+                "channelId": "UCsRIHt5FkbGc6cQtCxt-ufA",
+                "title": "[#유퀴즈온더블럭] 하나도 둘도 아닌 우린 셋이라네~😎 쌓인 게 세 배로 많아 할 말도 세 배인 삼둥이들의 우다다다 폭로전🤣ㅋㅋ",
+                "description": "유퀴즈온더블럭 #유퀴즈 #유재석 #조세호 매주 수요일 저녁 8시 45분 tvN에서! we're :DIGGLE family.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/Wdk0Qhlz450/default.jpg",
+                        "url": "https://i.ytimg.com/vi/TDj2yjlnqqU/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/Wdk0Qhlz450/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/TDj2yjlnqqU/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/Wdk0Qhlz450/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/TDj2yjlnqqU/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "진영민yeongmin",
+                "channelTitle": "tvN D ENT",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-06-30T11:00:33Z"
+                "publishTime": "2024-07-04T10:10:00Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "BEQfygOnHe80PtI3_oL2MxntGZw",
+            "etag": "Z3ycjykoDnG3Ftu93Lnwj8yjl8o",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "BfKnVYvs5ro"
+                "videoId": "uYCAlHJI0bU"
             },
             "snippet": {
-                "publishedAt": "2024-07-01T06:29:56Z",
-                "channelId": "UCdrBnBNLsN4_cH32HWbr9qg",
-                "title": "LOVE LETTER - POPPY PLAYTIME CHAPTER 3 | GH&#39;S ANIMATION",
-                "description": "GH.S Twitter : https://twitter.com/GHSTUDI0 Voice Actor :@NDH_Blueclub   GH'STUDIO : GH'S, PP, ANIMATORNAM, JOO, ...",
+                "publishedAt": "2024-07-04T10:00:52Z",
+                "channelId": "UCsRIHt5FkbGc6cQtCxt-ufA",
+                "title": "[#유퀴즈온더블럭] 대한민국만세에게 송일국이란? “음... 패쓰😜” 감동은 없고 재미만 있는 삼둥이 발언에 정신 못 차리는 아버지 송일국😂",
+                "description": "유퀴즈온더블럭 #유퀴즈 #유재석 #조세호 매주 수요일 저녁 8시 45분 tvN에서! we're :DIGGLE family.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/BfKnVYvs5ro/default.jpg",
+                        "url": "https://i.ytimg.com/vi/uYCAlHJI0bU/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/BfKnVYvs5ro/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/uYCAlHJI0bU/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/BfKnVYvs5ro/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/uYCAlHJI0bU/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "GH'S",
+                "channelTitle": "tvN D ENT",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-07-01T06:29:56Z"
+                "publishTime": "2024-07-04T10:00:52Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "OlmZSbwY_aXZ8ZDkw2Cpqe13h8s",
+            "etag": "4Opu_aFbRA93a8-YOMHGROt_4T8",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "LTmYMLg5l8I"
+                "videoId": "818EsTOcEqM"
             },
             "snippet": {
-                "publishedAt": "2024-01-08T00:58:07Z",
-                "channelId": "UChXo1crWdlv2I1ZnkWo3UwQ",
-                "title": "행복을 바라보는 7월의 꽃 🌻 l GRASS COTTON+",
-                "description": "Artist Lori Lively, Noir Bell, Inner Ocean +GℝASS ℂOTTOℕ + +이 채널에 사용된 모든 음악은 론뮤직에서 제공됩니다. +영상에 ...",
+                "publishedAt": "2024-07-04T10:01:01Z",
+                "channelId": "UCsRIHt5FkbGc6cQtCxt-ufA",
+                "title": "[#유퀴즈온더블럭] 손으로 쳐도 안 날아가는 러브버그😣 수명부터 대처법까지! 곤충 박사님이 알려주는 러브버그의 모든 것💥",
+                "description": "유퀴즈온더블럭 #유퀴즈 #유재석 #조세호 매주 수요일 저녁 8시 45분 tvN에서! we're :DIGGLE family.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/LTmYMLg5l8I/default_live.jpg",
+                        "url": "https://i.ytimg.com/vi/818EsTOcEqM/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/LTmYMLg5l8I/mqdefault_live.jpg",
+                        "url": "https://i.ytimg.com/vi/818EsTOcEqM/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/LTmYMLg5l8I/hqdefault_live.jpg",
+                        "url": "https://i.ytimg.com/vi/818EsTOcEqM/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "GRASS COTTON 그래스코튼",
-                "liveBroadcastContent": "live",
-                "publishTime": "2024-01-08T00:58:07Z"
+                "channelTitle": "tvN D ENT",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-07-04T10:01:01Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "K_J_s8IFGa2_I2If_hf4sQQttd8",
+            "etag": "JWFfwkoXEPrWNuL-ZM8BAeaJswc",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "buDtqGhTBXg"
+                "videoId": "HXiUVv1TWxo"
             },
             "snippet": {
-                "publishedAt": "2024-07-01T19:00:29Z",
-                "channelId": "UC7bYyWCCCLHDU0ZuNzGNTtg",
-                "title": "That&#39;s one brave man",
-                "description": "",
+                "publishedAt": "2024-07-04T07:00:28Z",
+                "channelId": "UCsRIHt5FkbGc6cQtCxt-ufA",
+                "title": "[#이말을꼭하고싶었어요] &quot;겁에 질려가지고.. 그냥 경찰들이 하라는 대로 했어요..&quot; 억울한 소년의 잃어버린 6년 | #번개클립",
+                "description": "번개클립 #이말을꼭하고싶었어요 #tvN \"이 말을 꼭 했어야 했는데…” 그 때 그 사건 속, 숨겨진 사람들의 이야기 🎙️ DJ 김창완이 전해 ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/buDtqGhTBXg/default.jpg",
+                        "url": "https://i.ytimg.com/vi/HXiUVv1TWxo/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/buDtqGhTBXg/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/HXiUVv1TWxo/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/buDtqGhTBXg/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/HXiUVv1TWxo/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "The Comments Section with Brett Cooper",
+                "channelTitle": "tvN D ENT",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-07-01T19:00:29Z"
+                "publishTime": "2024-07-04T07:00:28Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "BU3AzZ8ZrFKNURCIfxU5LMv98l4",
+            "etag": "bleEJ3iqinOyz1WW-Qh4NG4nVro",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "cbczoGB7pcI"
+                "videoId": "XJywSXow2wQ"
             },
             "snippet": {
-                "publishedAt": "2016-03-30T10:49:18Z",
-                "channelId": "UCYXEb5vAFCq68F3qdKJAUXQ",
-                "title": "이터널 선샤인",
-                "description": "사랑은 그렇게 다시 기억된다.. 조엘은 아픈 기억만을 지워준다는 라쿠나사를 찾아가 헤어진 연인 클레멘타인의 기억을 지우기로 결심 ...",
+                "publishedAt": "2024-07-04T07:00:26Z",
+                "channelId": "UCsRIHt5FkbGc6cQtCxt-ufA",
+                "title": "[#이말을꼭하고싶었어요] 악몽에 시달린 목격자, 그리고 진범? 검사가 사건을 &#39;무마시키려고 하는&#39; 느낌을 받았던 진범 | #번개클립",
+                "description": "번개클립 #이말을꼭하고싶었어요 #tvN \"이 말을 꼭 했어야 했는데…” 그 때 그 사건 속, 숨겨진 사람들의 이야기 🎙️ DJ 김창완이 전해 ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/cbczoGB7pcI/default.jpg",
+                        "url": "https://i.ytimg.com/vi/XJywSXow2wQ/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/cbczoGB7pcI/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/XJywSXow2wQ/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/cbczoGB7pcI/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/XJywSXow2wQ/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "YouTube Movies",
+                "channelTitle": "tvN D ENT",
                 "liveBroadcastContent": "none",
-                "publishTime": "2016-03-30T10:49:18Z"
+                "publishTime": "2024-07-04T07:00:26Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "KS7IKkhJY3HCinHlmP83h2cJrFo",
+            "etag": "D6wWS2Dg6ACqgAkFXLN0d2yzo8o",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "ML8KMooKliA"
+                "videoId": "4bt1Iih36Sg"
             },
             "snippet": {
-                "publishedAt": "2024-07-01T02:09:44Z",
-                "channelId": "UCHr5gYvzISpll23Je0urUeQ",
-                "title": "Oyakata-sama😧💔 #fyp #kny #demonslayer #foryou",
-                "description": "",
+                "publishedAt": "2024-07-04T06:00:02Z",
+                "channelId": "UCsRIHt5FkbGc6cQtCxt-ufA",
+                "title": "[#부산촌놈] 중국인 사수에게 농사 배우는 명예 중국인 곽튜브👨‍🌾 &#39;총빈~!&#39; 아니고 &#39;준빈..&#39; 소통은 어려워도 중국인 사수와 케미는 최고ㅋㅋㅋ",
+                "description": "부산촌놈 #허성태 #곽준빈 #안보현 #이시언 #배정남 we're :DIGGLE family.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/ML8KMooKliA/default.jpg",
+                        "url": "https://i.ytimg.com/vi/4bt1Iih36Sg/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/ML8KMooKliA/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/4bt1Iih36Sg/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/ML8KMooKliA/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/4bt1Iih36Sg/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "imthesan",
+                "channelTitle": "tvN D ENT",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-07-01T02:09:44Z"
+                "publishTime": "2024-07-04T06:00:02Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "sdJWU89OZnJK4k-dKRzpjOt_4yw",
+            "etag": "v2uE5xuZxDx_uqWOFvKoK63wOn8",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "ZnFE2Gc6QXk"
+                "videoId": "HwzikoRzZWI"
             },
             "snippet": {
-                "publishedAt": "2012-08-26T10:29:24Z",
-                "channelId": "UChW1Hj1crNHHdroAyMypdqA",
-                "title": "프리스트",
-                "description": "대재앙 이후의 세계, 인간과 흡혈귀 간의 전쟁이 몇 세기나 이어졌다. 전사가 된 사제(폴 베타니)의 조카가 무자비한 뱀파이어들의 소굴 ...",
+                "publishedAt": "2024-07-04T06:00:11Z",
+                "channelId": "UCsRIHt5FkbGc6cQtCxt-ufA",
+                "title": "[#부산촌놈] 호주에서 카페 일하려면 SF1=!!! 뭔 뜻인지 알아야 함...😱 커피의 나라 호주에서 복잡한 커피 주문에 정신없는 허성태 ㅋㅋㅋ",
+                "description": "부산촌놈 #허성태 #곽준빈 #안보현 #이시언 #배정남 we're :DIGGLE family.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/ZnFE2Gc6QXk/default.jpg",
+                        "url": "https://i.ytimg.com/vi/HwzikoRzZWI/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/ZnFE2Gc6QXk/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/HwzikoRzZWI/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/ZnFE2Gc6QXk/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/HwzikoRzZWI/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "YouTube Movies",
+                "channelTitle": "tvN D ENT",
                 "liveBroadcastContent": "none",
-                "publishTime": "2012-08-26T10:29:24Z"
+                "publishTime": "2024-07-04T06:00:11Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "kU6Yifhh8XhnUF9BBinhGggy27s",
+            "etag": "QGtL5ON_wQ45WQHs8znrhOCa_UA",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "dAQcaRVSBPM"
+                "videoId": "tDhxy9PKr6I"
             },
             "snippet": {
-                "publishedAt": "2024-06-30T17:42:40Z",
-                "channelId": "UCXzs4ZknZKageuV7uLUleVQ",
-                "title": "My boyfriend’s mom pushed me😳 #africa #family #dance #comedy @jaymondy.",
-                "description": "",
+                "publishedAt": "2024-07-04T05:00:35Z",
+                "channelId": "UCsRIHt5FkbGc6cQtCxt-ufA",
+                "title": "[#밥이나한잔해] 텐션 끌어↘ 올려↗↗ 저장된 번호가 10만 명(?) 소문난 인맥왕 김호영의 남다른 친화력😲",
+                "description": "\"집 근처야, 일단 나와!\" 급만난 찐친과의 '밥 한잔' 타임     ⚡동네 친구 번개 프로젝트⚡ tvN 〈밥이나 한잔해〉 매주 [목] 저녁 8시 40 ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/dAQcaRVSBPM/default.jpg",
+                        "url": "https://i.ytimg.com/vi/tDhxy9PKr6I/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/dAQcaRVSBPM/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/tDhxy9PKr6I/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/dAQcaRVSBPM/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/tDhxy9PKr6I/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "Isabell afro",
+                "channelTitle": "tvN D ENT",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-06-30T17:42:40Z"
+                "publishTime": "2024-07-04T05:00:35Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "8Hg6a3G4U16uSLXhXmkkQGao-g4",
+            "etag": "9Elw9WbffrYtOsi7E4w0bJ4LuTY",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "01nbv02ZbBc"
+                "videoId": "u6slPXbpX1w"
             },
             "snippet": {
-                "publishedAt": "2024-07-01T08:00:00Z",
-                "channelId": "UCvEEeBssb4XxIfWWIB8IjMw",
-                "title": "#쥴리#나띠 와 마주친 순간 I fly high#KISSOFLIFE #키스오브라이프 #KIOF #JULIE #NATTY #Sticky #Sticky_Challenge #Shorts",
-                "description": "",
+                "publishedAt": "2024-07-04T05:00:35Z",
+                "channelId": "UCsRIHt5FkbGc6cQtCxt-ufA",
+                "title": "[#밥이나한잔해] &quot;여기 테이블 다 계산해 주세요&quot; 희선 언니가 기분 좋으면 벌어지는 일ㅋㅋㅋ 자꾸 플렉스하는 리치 언니 클라쓰✨",
+                "description": "\"집 근처야, 일단 나와!\" 급만난 찐친과의 '밥 한잔' 타임     ⚡동네 친구 번개 프로젝트⚡ tvN 〈밥이나 한잔해〉 매주 [목] 저녁 8시 40 ...",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/01nbv02ZbBc/default.jpg",
+                        "url": "https://i.ytimg.com/vi/u6slPXbpX1w/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/01nbv02ZbBc/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/u6slPXbpX1w/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/01nbv02ZbBc/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/u6slPXbpX1w/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "KISS OF LIFE",
+                "channelTitle": "tvN D ENT",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-07-01T08:00:00Z"
+                "publishTime": "2024-07-04T05:00:35Z"
             }
         },
         {
             "kind": "youtube#searchResult",
-            "etag": "zH2HZZ8CZpVDYhxNYX37hnU9OBs",
+            "etag": "1dGARqGHBqk9B0EuRRcPrk1P1to",
             "id": {
                 "kind": "youtube#video",
-                "videoId": "nFfuL7PuAUk"
+                "videoId": "v-zT6EGWHJ4"
             },
             "snippet": {
-                "publishedAt": "2024-07-01T09:04:05Z",
-                "channelId": "UCkinYTS9IHqOEwR1Sze2JTw",
-                "title": "&#39;4년 만의 새 모델&#39; 공개 날 수많은 &#39;집게 손&#39; 포착…&#39;르노 직원&#39; 당사자 직접 나섰지만 &#39;비난 폭주&#39; 이유 (현장영상) / SBS",
-                "description": "르노코리아의 신차 홍보 영상에 출연한 직원이 '집게 손' 동작을 한 것을 두고 온라인에서 논란이 커지고 있습니다. 르노코리아는 조사 ...",
+                "publishedAt": "2024-07-04T04:30:20Z",
+                "channelId": "UCsRIHt5FkbGc6cQtCxt-ufA",
+                "title": "[#우아한인생] ※속보) 예능판에 혜성처럼 등장한 웃수저 최다니엘⭐ 은밀하고 이상한(?) 샤워 장면 大공개! | #티전드",
+                "description": "티전드 #진실혹은설정우아한인생 #tvN we're :DIGGLE family.",
                 "thumbnails": {
                     "default": {
-                        "url": "https://i.ytimg.com/vi/nFfuL7PuAUk/default.jpg",
+                        "url": "https://i.ytimg.com/vi/v-zT6EGWHJ4/default.jpg",
                         "width": 120,
                         "height": 90
                     },
                     "medium": {
-                        "url": "https://i.ytimg.com/vi/nFfuL7PuAUk/mqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/v-zT6EGWHJ4/mqdefault.jpg",
                         "width": 320,
                         "height": 180
                     },
                     "high": {
-                        "url": "https://i.ytimg.com/vi/nFfuL7PuAUk/hqdefault.jpg",
+                        "url": "https://i.ytimg.com/vi/v-zT6EGWHJ4/hqdefault.jpg",
                         "width": 480,
                         "height": 360
                     }
                 },
-                "channelTitle": "SBS 뉴스",
+                "channelTitle": "tvN D ENT",
                 "liveBroadcastContent": "none",
-                "publishTime": "2024-07-01T09:04:05Z"
+                "publishTime": "2024-07-04T04:30:20Z"
             }
         }
     ]
