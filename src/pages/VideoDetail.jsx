@@ -27,9 +27,10 @@ export default function VideoDetail() {
         <div className="pt-4">
           <h2 className="text-xl font-bold">{replaceStr(title)}</h2>
           <ChannelInfo id={channelId} name={channelTitle} />
+          {description && 
           <p className="text-sm whitespace-pre-wrap bg-ugray rounded-xl p-4 mb-8">
             {replaceStr(description)}
-          </p>
+          </p>}
         </div>
       </article>
       <section className="basis-1/4">
