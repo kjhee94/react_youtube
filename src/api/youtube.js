@@ -9,7 +9,7 @@ export default class Youtube {
 
   async channelData(id) {
     return this.apiClient
-      .channels({ params: { part: "snippet,statistics", id } })
+      .channels({ params: { part: "snippet,statistics", id: id } })
       .then((res) => res.data.items[0]);
   }
 
@@ -44,7 +44,7 @@ export default class Youtube {
           part: "snippet",
           type: "video",
           regionCode: "kr",
-          maxResults: 30,
+          maxResults: 25,
           q: keyword,
         },
       })
@@ -60,7 +60,7 @@ export default class Youtube {
           part: "snippet",
           chart: "mostPopular",
           regionCode: "kr",
-          maxResults: 30,
+          maxResults: 25,
           order: "date",
         },
       })

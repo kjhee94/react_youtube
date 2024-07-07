@@ -7,8 +7,7 @@ import { useYoutubeApi } from "../context/YoutubeApiContext";
 export default function Videos() {
   const { keyword } = useParams();
   const { youtube } = useYoutubeApi();
-  const { isLoading, error, data: videos } = useQuery(
-	  {
+  const { isLoading, error, data: videos } = useQuery({
       queryKey: ["videos", keyword],
       queryFn: () => {
         return youtube.search(keyword);

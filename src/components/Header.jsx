@@ -17,7 +17,7 @@ export default function Header() {
     <header className="w-full h-16 flex items-center px-8 text-base mb-4">
       <Link to='/videos' className="flex items-center">
         <FaYoutube className="text-3xl text-brand"/>
-        <h1 className="font-bold ml-1 text-2xl">YouTube</h1>
+        <h1 className="font-bold ml-1 text-2xl tracking-tighter">YouTube</h1>
       </Link>
       <form className="w-full flex justify-center"  onSubmit={haldleSubmit}>
         <input

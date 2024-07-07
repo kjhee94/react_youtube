@@ -2,6 +2,7 @@ import React from "react";
 import { useLocation } from "react-router-dom";
 import ChannelInfo from "../components/ChannelInfo";
 import RelatedVideos from "../components/RelatedVideos";
+import { replaceStr } from "../util/replaceStr";
 
 export default function VideoDetail() {
   const {
@@ -12,23 +13,27 @@ export default function VideoDetail() {
   return (
     <section className="flex flex-col lg:flex-row mx-8">
       <article className="basis-3/4">
-        <iframe
-          className="rounded-lg"
-          id="player"
-          type="text/html"
-          width="100%"
-          height="640"
-          src={`https://www.youtube.com/embed/${video.id}`}
-          title={title}
-        />
+        <div className="w-full h-0 pb-[56.26%] relative">
+          <iframe
+            className="rounded-lg absolute top-0 left-0"
+            id="player"
+            type="text/html"
+            width="100%"
+            height="100%"
+            src={`https://www.youtube.com/embed/${video.id}`}
+            title={title}
+          />
+        </div>
         <div className="pt-4">
-          <h2 className="text-xl font-bold">{title}</h2>
+          <h2 className="text-xl font-bold">{replaceStr(title)}</h2>
           <ChannelInfo id={channelId} name={channelTitle} />
-          <p className="text-sm whitespace-pre-wrap bg-ugray rounded-xl p-4">{description}</p>
+          <p className="text-sm whitespace-pre-wrap bg-ugray rounded-xl p-4 mb-8">
+            {replaceStr(description)}
+          </p>
         </div>
       </article>
       <section className="basis-1/4">
-        <RelatedVideos id={video.id} />
+        <RelatedVideos id={channelId} />
       </section>
     </section>
   );
