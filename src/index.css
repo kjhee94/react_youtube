@@ -11,6 +11,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   width: 100vw;
   height: 100vh;
+  overflow-x: hidden;
   font-family: "Roboto", "Arial", sans-serif;
   @apply flex flex-col items-center;
   @apply bg-bg text-text;
