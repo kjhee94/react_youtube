@@ -9,7 +9,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  width: calc(100vw-1px);
+  width: 100vw;
   height: 100vh;
   font-family: "Roboto", "Arial", sans-serif;
   @apply flex flex-col items-center;
